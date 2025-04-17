@@ -1,0 +1,612 @@
+Rreplacement_period,E-waste_volume,e-waste_type,Disposal_reason,Disposal_method,E-waste_disposal_rules,Recycle_done,Recycle_feedback,Risk_awareness,Risk_associated,Healthrisk_awareness,Risk_Level
+every 6 months,6 - 10 kg,Batteries,Physical damage,Store at home,No,Yes,Neutral,No,Wildlife damage,No,Moderate
+every 2-3 years,11 - 20 kg,Batteries,Poor performance,Store at home,No,No,Very Satisfied,No,Water pollution,No,Moderate
+more than 3 years,11 - 20 kg,Laptops/Computers,Device malfunction,Throw in regular trash,Yes,No,Very Satisfied,No,Wildlife damage,Yes,Moderate
+every 6 months,1 - 5 kg,Mobile phones,Physical damage,Donate to others,Yes,No,Neutral,No,Water pollution,No,Moderate
+every 6 months,6 - 10 kg,Mobile phones,Device malfunction,Throw in regular trash,No,No,Satisfied,Yes,Water pollution,Yes,High
+more than 3 years,6 - 10 kg,Home Appliances,Device malfunction,Sell to scrap dealers,Yes,Yes,Very Satisfied,No,Air pollution,Yes,Moderate
+every 6 months,More than 20 kg,Mobile phones,Poor performance,Donate to others,No,No,Neutral,Yes,Water pollution,Yes,High
+every 1 year,6 - 10 kg,Batteries,Device malfunction,Return to manufacturers/recyclers,Yes,Yes,Neutral,Yes,Water pollution,Yes,Low
+more than 3 years,6 - 10 kg,Home Appliances,Device malfunction,Sell to scrap dealers,Yes,Yes,Dissatisfied,Yes,Air pollution,No,Moderate
+every 1 year,6 - 10 kg,Mobile phones,Physical damage,Sell to scrap dealers,No,Yes,Satisfied,No,Water pollution,Yes,Moderate
+more than 3 years,1 - 5 kg,TVs/Monitors,Physical damage,Store at home,Yes,No,Dissatisfied,No,Soil contamination,No,Low
+every 1 year,11 - 20 kg,Mobile phones,Physical damage,Throw in regular trash,No,No,Neutral,Yes,Soil contamination,Yes,High
+more than 3 years,11 - 20 kg,TVs/Monitors,Physical damage,Sell to scrap dealers,No,No,Dissatisfied,Yes,Wildlife damage,No,Moderate
+every 2-3 years,11 - 20 kg,Mobile phones,Physical damage,Throw in regular trash,Yes,Yes,Satisfied,No,Wildlife damage,Yes,Moderate
+every 1 year,Less than 1 kg,Home Appliances,Physical damage,Throw in regular trash,Yes,No,Neutral,No,Soil contamination,Yes,Moderate
+every 1 year,Less than 1 kg,TVs/Monitors,Device malfunction,Throw in regular trash,Yes,Yes,Very Satisfied,No,Water pollution,No,Moderate
+more than 3 years,11 - 20 kg,Laptops/Computers,Device malfunction,Return to manufacturers/recyclers,Yes,Yes,Very Satisfied,No,Wildlife damage,Yes,Low
+more than 3 years,Less than 1 kg,Mobile phones,Upgrading to a newer model,Throw in regular trash,Yes,Yes,Very Satisfied,No,Soil contamination,Yes,Low
+every 2-3 years,More than 20 kg,Home Appliances,Physical damage,Return to manufacturers/recyclers,Yes,No,Dissatisfied,Yes,Water pollution,No,Moderate
+every 6 months,6 - 10 kg,Home Appliances,Device malfunction,Sell to scrap dealers,Yes,Yes,Very Satisfied,Yes,Water pollution,Yes,Moderate
+every 2-3 years,Less than 1 kg,Home Appliances,Physical damage,Sell to scrap dealers,Yes,Yes,Dissatisfied,No,Wildlife damage,No,Low
+more than 3 years,More than 20 kg,Laptops/Computers,Device malfunction,Return to manufacturers/recyclers,No,No,Neutral,No,Wildlife damage,No,Moderate
+every 1 year,6 - 10 kg,TVs/Monitors,Upgrading to a newer model,Store at home,No,Yes,Very Satisfied,Yes,Air pollution,Yes,Moderate
+every 1 year,6 - 10 kg,TVs/Monitors,Device malfunction,Store at home,No,Yes,Dissatisfied,Yes,Air pollution,No,Moderate
+every 1 year,Less than 1 kg,Batteries,Upgrading to a newer model,Sell to scrap dealers,No,No,Very Satisfied,No,Water pollution,No,Moderate
+every 1 year,More than 20 kg,Home Appliances,Physical damage,Donate to others,No,No,Dissatisfied,No,Water pollution,No,High
+every 1 year,More than 20 kg,Home Appliances,Physical damage,Return to manufacturers/recyclers,No,Yes,Very Satisfied,No,Water pollution,No,Moderate
+every 1 year,6 - 10 kg,Batteries,Device malfunction,Sell to scrap dealers,No,No,Dissatisfied,No,Soil contamination,No,Moderate
+every 2-3 years,6 - 10 kg,Mobile phones,Poor performance,Donate to others,Yes,Yes,Neutral,Yes,Soil contamination,Yes,Low
+more than 3 years,1 - 5 kg,TVs/Monitors,Device malfunction,Return to manufacturers/recyclers,Yes,No,Very Satisfied,Yes,Wildlife damage,Yes,Low
+every 2-3 years,Less than 1 kg,Batteries,Physical damage,Donate to others,No,No,Very Satisfied,No,Soil contamination,No,Moderate
+every 1 year,1 - 5 kg,Batteries,Device malfunction,Throw in regular trash,Yes,No,Very Satisfied,No,Wildlife damage,Yes,Moderate
+every 1 year,More than 20 kg,Laptops/Computers,Device malfunction,Throw in regular trash,Yes,Yes,Neutral,Yes,Water pollution,No,High
+every 6 months,Less than 1 kg,TVs/Monitors,Device malfunction,Throw in regular trash,Yes,No,Neutral,Yes,Soil contamination,No,Moderate
+more than 3 years,6 - 10 kg,Laptops/Computers,Device malfunction,Store at home,Yes,Yes,Dissatisfied,No,Soil contamination,No,Low
+every 1 year,More than 20 kg,Batteries,Physical damage,Throw in regular trash,No,Yes,Neutral,Yes,Wildlife damage,Yes,High
+every 1 year,1 - 5 kg,Mobile phones,Device malfunction,Donate to others,Yes,No,Very Satisfied,Yes,Water pollution,No,Moderate
+every 1 year,More than 20 kg,TVs/Monitors,Upgrading to a newer model,Throw in regular trash,No,Yes,Neutral,No,Water pollution,Yes,High
+more than 3 years,11 - 20 kg,Batteries,Poor performance,Store at home,No,Yes,Dissatisfied,No,Air pollution,No,Moderate
+every 1 year,6 - 10 kg,Batteries,Device malfunction,Sell to scrap dealers,No,Yes,Dissatisfied,Yes,Air pollution,Yes,Moderate
+more than 3 years,Less than 1 kg,Home Appliances,Device malfunction,Donate to others,Yes,No,Satisfied,No,Air pollution,No,Low
+every 2-3 years,6 - 10 kg,Home Appliances,Device malfunction,Store at home,Yes,Yes,Dissatisfied,Yes,Air pollution,No,Moderate
+more than 3 years,More than 20 kg,Mobile phones,Upgrading to a newer model,Throw in regular trash,No,Yes,Very Satisfied,No,Wildlife damage,Yes,Moderate
+every 1 year,11 - 20 kg,Home Appliances,Device malfunction,Return to manufacturers/recyclers,No,No,Dissatisfied,No,Soil contamination,No,Moderate
+every 1 year,Less than 1 kg,TVs/Monitors,Poor performance,Store at home,Yes,Yes,Neutral,No,Wildlife damage,No,Low
+every 6 months,Less than 1 kg,Home Appliances,Device malfunction,Return to manufacturers/recyclers,No,No,Very Satisfied,No,Wildlife damage,Yes,Moderate
+every 2-3 years,11 - 20 kg,TVs/Monitors,Physical damage,Store at home,No,No,Neutral,No,Water pollution,Yes,Moderate
+every 6 months,11 - 20 kg,Mobile phones,Physical damage,Return to manufacturers/recyclers,Yes,No,Neutral,Yes,Wildlife damage,No,Moderate
+every 1 year,More than 20 kg,Home Appliances,Upgrading to a newer model,Sell to scrap dealers,Yes,Yes,Satisfied,Yes,Wildlife damage,No,Moderate
+more than 3 years,1 - 5 kg,Batteries,Device malfunction,Throw in regular trash,No,No,Very Satisfied,No,Wildlife damage,Yes,Moderate
+every 2-3 years,Less than 1 kg,Batteries,Upgrading to a newer model,Store at home,No,Yes,Dissatisfied,No,Water pollution,Yes,Low
+every 1 year,6 - 10 kg,Batteries,Poor performance,Sell to scrap dealers,No,No,Dissatisfied,No,Water pollution,No,Moderate
+more than 3 years,More than 20 kg,Batteries,Physical damage,Sell to scrap dealers,No,No,Satisfied,No,Air pollution,No,High
+every 2-3 years,6 - 10 kg,Home Appliances,Physical damage,Throw in regular trash,Yes,Yes,Very Satisfied,No,Water pollution,Yes,Moderate
+every 1 year,More than 20 kg,Laptops/Computers,Physical damage,Sell to scrap dealers,No,No,Dissatisfied,No,Air pollution,Yes,High
+every 2-3 years,11 - 20 kg,Home Appliances,Upgrading to a newer model,Throw in regular trash,No,Yes,Dissatisfied,No,Soil contamination,Yes,Moderate
+more than 3 years,1 - 5 kg,TVs/Monitors,Physical damage,Return to manufacturers/recyclers,No,No,Neutral,Yes,Water pollution,No,Low
+every 1 year,11 - 20 kg,Batteries,Physical damage,Sell to scrap dealers,No,Yes,Satisfied,No,Water pollution,No,High
+every 6 months,6 - 10 kg,Laptops/Computers,Physical damage,Sell to scrap dealers,No,Yes,Satisfied,Yes,Water pollution,Yes,Moderate
+more than 3 years,1 - 5 kg,Home Appliances,Upgrading to a newer model,Store at home,No,No,Dissatisfied,Yes,Air pollution,Yes,Low
+more than 3 years,More than 20 kg,Laptops/Computers,Upgrading to a newer model,Return to manufacturers/recyclers,Yes,No,Very Satisfied,Yes,Wildlife damage,Yes,Moderate
+every 6 months,Less than 1 kg,Mobile phones,Physical damage,Return to manufacturers/recyclers,Yes,Yes,Dissatisfied,Yes,Air pollution,Yes,Low
+more than 3 years,Less than 1 kg,Batteries,Device malfunction,Return to manufacturers/recyclers,Yes,Yes,Satisfied,Yes,Water pollution,Yes,Low
+every 1 year,More than 20 kg,TVs/Monitors,Poor performance,Throw in regular trash,No,No,Dissatisfied,No,Water pollution,Yes,High
+more than 3 years,6 - 10 kg,TVs/Monitors,Poor performance,Throw in regular trash,No,No,Dissatisfied,No,Water pollution,No,Moderate
+every 1 year,Less than 1 kg,TVs/Monitors,Device malfunction,Donate to others,Yes,Yes,Very Satisfied,No,Soil contamination,No,Low
+more than 3 years,1 - 5 kg,TVs/Monitors,Physical damage,Throw in regular trash,No,Yes,Dissatisfied,No,Air pollution,Yes,Moderate
+more than 3 years,Less than 1 kg,Batteries,Upgrading to a newer model,Throw in regular trash,No,No,Satisfied,Yes,Soil contamination,Yes,Moderate
+every 1 year,Less than 1 kg,Laptops/Computers,Device malfunction,Store at home,No,No,Dissatisfied,Yes,Water pollution,Yes,Moderate
+every 1 year,1 - 5 kg,TVs/Monitors,Poor performance,Return to manufacturers/recyclers,Yes,No,Dissatisfied,No,Water pollution,No,Moderate
+every 2-3 years,11 - 20 kg,TVs/Monitors,Upgrading to a newer model,Throw in regular trash,Yes,No,Neutral,Yes,Water pollution,No,Moderate
+every 2-3 years,Less than 1 kg,Batteries,Device malfunction,Donate to others,No,No,Very Satisfied,No,Soil contamination,No,Moderate
+every 6 months,Less than 1 kg,Batteries,Device malfunction,Return to manufacturers/recyclers,Yes,Yes,Satisfied,No,Soil contamination,No,Low
+every 2-3 years,1 - 5 kg,Batteries,Poor performance,Throw in regular trash,No,No,Dissatisfied,Yes,Wildlife damage,No,Moderate
+every 2-3 years,Less than 1 kg,TVs/Monitors,Device malfunction,Donate to others,No,No,Very Satisfied,Yes,Water pollution,No,Low
+every 1 year,Less than 1 kg,Laptops/Computers,Upgrading to a newer model,Store at home,Yes,Yes,Neutral,No,Soil contamination,No,Low
+every 6 months,11 - 20 kg,Home Appliances,Physical damage,Throw in regular trash,Yes,Yes,Neutral,No,Wildlife damage,No,High
+every 6 months,Less than 1 kg,TVs/Monitors,Poor performance,Store at home,Yes,Yes,Satisfied,No,Water pollution,Yes,Low
+more than 3 years,More than 20 kg,Mobile phones,Poor performance,Donate to others,Yes,No,Neutral,No,Wildlife damage,Yes,Moderate
+more than 3 years,More than 20 kg,TVs/Monitors,Poor performance,Store at home,No,Yes,Neutral,Yes,Wildlife damage,Yes,Moderate
+every 6 months,More than 20 kg,Laptops/Computers,Physical damage,Sell to scrap dealers,Yes,No,Neutral,Yes,Wildlife damage,Yes,High
+every 2-3 years,6 - 10 kg,TVs/Monitors,Device malfunction,Store at home,Yes,Yes,Dissatisfied,No,Air pollution,No,Moderate
+every 6 months,6 - 10 kg,Mobile phones,Upgrading to a newer model,Return to manufacturers/recyclers,No,Yes,Very Satisfied,No,Air pollution,Yes,Moderate
+more than 3 years,6 - 10 kg,Mobile phones,Physical damage,Throw in regular trash,Yes,Yes,Neutral,No,Soil contamination,Yes,Moderate
+every 6 months,6 - 10 kg,Mobile phones,Upgrading to a newer model,Return to manufacturers/recyclers,No,Yes,Very Satisfied,No,Soil contamination,No,Moderate
+every 6 months,6 - 10 kg,Mobile phones,Device malfunction,Donate to others,No,No,Satisfied,Yes,Air pollution,Yes,Moderate
+more than 3 years,6 - 10 kg,Home Appliances,Upgrading to a newer model,Return to manufacturers/recyclers,Yes,No,Neutral,Yes,Wildlife damage,Yes,Low
+every 2-3 years,Less than 1 kg,Batteries,Physical damage,Store at home,Yes,Yes,Satisfied,No,Wildlife damage,Yes,Low
+more than 3 years,1 - 5 kg,TVs/Monitors,Device malfunction,Store at home,Yes,Yes,Very Satisfied,No,Air pollution,No,Low
+every 1 year,More than 20 kg,Mobile phones,Device malfunction,Throw in regular trash,Yes,Yes,Dissatisfied,No,Water pollution,Yes,High
+every 2-3 years,More than 20 kg,Mobile phones,Physical damage,Sell to scrap dealers,Yes,No,Satisfied,No,Water pollution,Yes,Moderate
+more than 3 years,Less than 1 kg,Home Appliances,Physical damage,Return to manufacturers/recyclers,Yes,No,Neutral,No,Wildlife damage,No,Low
+every 1 year,1 - 5 kg,Home Appliances,Physical damage,Throw in regular trash,No,Yes,Dissatisfied,No,Water pollution,Yes,Moderate
+every 2-3 years,More than 20 kg,Laptops/Computers,Device malfunction,Store at home,Yes,No,Satisfied,No,Air pollution,No,Moderate
+every 6 months,6 - 10 kg,Mobile phones,Upgrading to a newer model,Return to manufacturers/recyclers,Yes,No,Neutral,Yes,Water pollution,Yes,Moderate
+every 1 year,6 - 10 kg,TVs/Monitors,Device malfunction,Sell to scrap dealers,No,Yes,Neutral,No,Soil contamination,Yes,Moderate
+every 1 year,6 - 10 kg,Mobile phones,Poor performance,Donate to others,No,No,Satisfied,No,Wildlife damage,Yes,Moderate
+more than 3 years,1 - 5 kg,Laptops/Computers,Poor performance,Store at home,Yes,No,Neutral,No,Air pollution,No,Low
+more than 3 years,6 - 10 kg,Mobile phones,Physical damage,Sell to scrap dealers,No,Yes,Very Satisfied,No,Water pollution,Yes,Moderate
+every 2-3 years,1 - 5 kg,TVs/Monitors,Upgrading to a newer model,Return to manufacturers/recyclers,No,Yes,Satisfied,No,Soil contamination,Yes,Low
+every 2-3 years,More than 20 kg,Batteries,Upgrading to a newer model,Return to manufacturers/recyclers,No,Yes,Neutral,Yes,Water pollution,Yes,Moderate
+more than 3 years,11 - 20 kg,Batteries,Physical damage,Throw in regular trash,Yes,Yes,Very Satisfied,No,Wildlife damage,No,Moderate
+every 1 year,More than 20 kg,TVs/Monitors,Device malfunction,Sell to scrap dealers,No,No,Dissatisfied,No,Water pollution,No,High
+every 1 year,Less than 1 kg,Home Appliances,Physical damage,Sell to scrap dealers,Yes,Yes,Dissatisfied,Yes,Wildlife damage,No,Low
+every 6 months,6 - 10 kg,TVs/Monitors,Upgrading to a newer model,Return to manufacturers/recyclers,No,No,Dissatisfied,Yes,Air pollution,Yes,Moderate
+every 6 months,1 - 5 kg,TVs/Monitors,Poor performance,Throw in regular trash,No,No,Dissatisfied,Yes,Air pollution,Yes,Moderate
+every 1 year,6 - 10 kg,Batteries,Physical damage,Sell to scrap dealers,Yes,Yes,Neutral,Yes,Soil contamination,Yes,Moderate
+every 6 months,1 - 5 kg,Mobile phones,Poor performance,Store at home,Yes,Yes,Satisfied,Yes,Water pollution,Yes,Moderate
+every 2-3 years,1 - 5 kg,Batteries,Upgrading to a newer model,Sell to scrap dealers,Yes,No,Satisfied,Yes,Soil contamination,Yes,Moderate
+more than 3 years,6 - 10 kg,Batteries,Poor performance,Sell to scrap dealers,No,Yes,Neutral,Yes,Water pollution,No,Moderate
+every 1 year,1 - 5 kg,Laptops/Computers,Physical damage,Store at home,No,Yes,Very Satisfied,No,Wildlife damage,No,Moderate
+every 1 year,6 - 10 kg,Home Appliances,Device malfunction,Return to manufacturers/recyclers,No,Yes,Dissatisfied,Yes,Wildlife damage,Yes,Moderate
+more than 3 years,11 - 20 kg,Home Appliances,Physical damage,Donate to others,No,Yes,Neutral,Yes,Air pollution,Yes,Moderate
+every 2-3 years,More than 20 kg,Home Appliances,Physical damage,Store at home,No,Yes,Satisfied,Yes,Water pollution,No,Moderate
+every 6 months,Less than 1 kg,Mobile phones,Upgrading to a newer model,Sell to scrap dealers,No,Yes,Neutral,Yes,Soil contamination,No,Moderate
+more than 3 years,6 - 10 kg,Mobile phones,Device malfunction,Store at home,Yes,Yes,Very Satisfied,Yes,Water pollution,Yes,Low
+every 2-3 years,1 - 5 kg,Mobile phones,Device malfunction,Return to manufacturers/recyclers,Yes,No,Very Satisfied,No,Air pollution,No,Low
+every 2-3 years,1 - 5 kg,TVs/Monitors,Physical damage,Sell to scrap dealers,No,Yes,Dissatisfied,Yes,Wildlife damage,Yes,Moderate
+every 1 year,11 - 20 kg,Laptops/Computers,Physical damage,Donate to others,Yes,No,Dissatisfied,Yes,Soil contamination,Yes,Moderate
+every 1 year,11 - 20 kg,TVs/Monitors,Poor performance,Sell to scrap dealers,No,Yes,Satisfied,No,Wildlife damage,Yes,Moderate
+more than 3 years,11 - 20 kg,Laptops/Computers,Poor performance,Donate to others,No,No,Satisfied,No,Soil contamination,No,Moderate
+every 2-3 years,11 - 20 kg,TVs/Monitors,Physical damage,Donate to others,Yes,Yes,Satisfied,Yes,Soil contamination,No,Moderate
+every 1 year,6 - 10 kg,TVs/Monitors,Device malfunction,Donate to others,Yes,Yes,Dissatisfied,Yes,Air pollution,No,Moderate
+every 1 year,Less than 1 kg,Home Appliances,Poor performance,Throw in regular trash,No,Yes,Dissatisfied,No,Water pollution,No,Moderate
+every 1 year,Less than 1 kg,Laptops/Computers,Poor performance,Store at home,Yes,No,Satisfied,No,Water pollution,Yes,Low
+every 1 year,11 - 20 kg,Laptops/Computers,Device malfunction,Throw in regular trash,No,Yes,Neutral,No,Soil contamination,No,High
+every 2-3 years,More than 20 kg,Home Appliances,Poor performance,Throw in regular trash,No,Yes,Satisfied,No,Water pollution,No,High
+more than 3 years,6 - 10 kg,Batteries,Poor performance,Throw in regular trash,No,Yes,Very Satisfied,No,Wildlife damage,Yes,Moderate
+every 6 months,6 - 10 kg,Batteries,Upgrading to a newer model,Store at home,No,Yes,Satisfied,Yes,Wildlife damage,Yes,Moderate
+every 1 year,11 - 20 kg,Mobile phones,Device malfunction,Donate to others,No,Yes,Neutral,No,Water pollution,No,Moderate
+every 1 year,6 - 10 kg,Mobile phones,Upgrading to a newer model,Sell to scrap dealers,No,Yes,Neutral,No,Water pollution,Yes,Moderate
+every 1 year,More than 20 kg,Laptops/Computers,Device malfunction,Store at home,No,No,Very Satisfied,Yes,Water pollution,No,High
+every 1 year,1 - 5 kg,Mobile phones,Device malfunction,Sell to scrap dealers,Yes,Yes,Dissatisfied,No,Wildlife damage,No,Moderate
+every 6 months,6 - 10 kg,Batteries,Device malfunction,Sell to scrap dealers,No,No,Satisfied,Yes,Wildlife damage,No,High
+every 2-3 years,1 - 5 kg,Batteries,Poor performance,Store at home,Yes,No,Very Satisfied,No,Water pollution,No,Moderate
+more than 3 years,More than 20 kg,Batteries,Physical damage,Return to manufacturers/recyclers,Yes,Yes,Satisfied,Yes,Air pollution,No,Moderate
+more than 3 years,More than 20 kg,Batteries,Poor performance,Sell to scrap dealers,No,Yes,Neutral,Yes,Water pollution,No,Moderate
+every 2-3 years,Less than 1 kg,TVs/Monitors,Physical damage,Throw in regular trash,Yes,Yes,Satisfied,Yes,Soil contamination,Yes,Low
+every 2-3 years,11 - 20 kg,Mobile phones,Physical damage,Return to manufacturers/recyclers,Yes,Yes,Very Satisfied,Yes,Air pollution,No,Moderate
+every 6 months,11 - 20 kg,Home Appliances,Poor performance,Donate to others,Yes,Yes,Satisfied,No,Wildlife damage,Yes,Moderate
+more than 3 years,6 - 10 kg,TVs/Monitors,Poor performance,Sell to scrap dealers,No,No,Very Satisfied,Yes,Soil contamination,No,Moderate
+every 2-3 years,Less than 1 kg,Home Appliances,Physical damage,Store at home,No,Yes,Dissatisfied,No,Air pollution,Yes,Low
+every 2-3 years,1 - 5 kg,Mobile phones,Device malfunction,Store at home,No,Yes,Satisfied,Yes,Wildlife damage,Yes,Low
+more than 3 years,Less than 1 kg,Laptops/Computers,Physical damage,Donate to others,No,Yes,Dissatisfied,Yes,Soil contamination,No,Low
+more than 3 years,Less than 1 kg,Laptops/Computers,Device malfunction,Donate to others,No,Yes,Dissatisfied,Yes,Soil contamination,No,Low
+every 1 year,More than 20 kg,Laptops/Computers,Physical damage,Return to manufacturers/recyclers,No,No,Neutral,Yes,Soil contamination,Yes,Moderate
+every 2-3 years,Less than 1 kg,Mobile phones,Poor performance,Donate to others,No,No,Very Satisfied,Yes,Water pollution,Yes,Low
+every 2-3 years,6 - 10 kg,Home Appliances,Device malfunction,Donate to others,No,Yes,Neutral,No,Soil contamination,No,Moderate
+more than 3 years,More than 20 kg,TVs/Monitors,Device malfunction,Sell to scrap dealers,Yes,Yes,Very Satisfied,Yes,Soil contamination,Yes,Moderate
+every 6 months,More than 20 kg,Batteries,Upgrading to a newer model,Return to manufacturers/recyclers,Yes,No,Satisfied,Yes,Soil contamination,Yes,Moderate
+every 6 months,11 - 20 kg,Laptops/Computers,Upgrading to a newer model,Throw in regular trash,Yes,Yes,Dissatisfied,No,Wildlife damage,Yes,High
+more than 3 years,Less than 1 kg,Home Appliances,Device malfunction,Store at home,No,No,Very Satisfied,No,Air pollution,Yes,Low
+every 2-3 years,1 - 5 kg,Mobile phones,Poor performance,Donate to others,No,No,Neutral,No,Water pollution,No,Moderate
+every 6 months,Less than 1 kg,Mobile phones,Physical damage,Return to manufacturers/recyclers,No,No,Very Satisfied,No,Soil contamination,No,Moderate
+more than 3 years,1 - 5 kg,Home Appliances,Device malfunction,Return to manufacturers/recyclers,Yes,No,Satisfied,No,Water pollution,Yes,Low
+every 6 months,11 - 20 kg,Batteries,Device malfunction,Sell to scrap dealers,Yes,No,Neutral,Yes,Soil contamination,No,High
+every 6 months,More than 20 kg,Mobile phones,Upgrading to a newer model,Donate to others,Yes,No,Satisfied,Yes,Wildlife damage,Yes,High
+more than 3 years,6 - 10 kg,Home Appliances,Upgrading to a newer model,Return to manufacturers/recyclers,Yes,No,Satisfied,No,Soil contamination,Yes,Low
+more than 3 years,1 - 5 kg,Mobile phones,Device malfunction,Sell to scrap dealers,Yes,Yes,Neutral,Yes,Water pollution,Yes,Low
+more than 3 years,11 - 20 kg,Home Appliances,Poor performance,Store at home,No,Yes,Very Satisfied,Yes,Soil contamination,Yes,Moderate
+every 2-3 years,11 - 20 kg,Mobile phones,Physical damage,Sell to scrap dealers,Yes,No,Dissatisfied,No,Air pollution,Yes,Moderate
+every 2-3 years,More than 20 kg,Laptops/Computers,Poor performance,Sell to scrap dealers,No,No,Dissatisfied,Yes,Wildlife damage,Yes,High
+every 1 year,More than 20 kg,Batteries,Device malfunction,Return to manufacturers/recyclers,No,Yes,Very Satisfied,No,Wildlife damage,No,Moderate
+every 2-3 years,11 - 20 kg,TVs/Monitors,Poor performance,Throw in regular trash,No,No,Satisfied,Yes,Water pollution,No,High
+every 6 months,Less than 1 kg,Mobile phones,Upgrading to a newer model,Throw in regular trash,No,No,Very Satisfied,Yes,Wildlife damage,Yes,Moderate
+every 6 months,More than 20 kg,Mobile phones,Poor performance,Return to manufacturers/recyclers,No,No,Neutral,No,Wildlife damage,Yes,High
+every 2-3 years,11 - 20 kg,Laptops/Computers,Upgrading to a newer model,Sell to scrap dealers,No,No,Neutral,Yes,Soil contamination,Yes,Moderate
+every 2-3 years,11 - 20 kg,Batteries,Physical damage,Store at home,No,No,Satisfied,Yes,Air pollution,No,Moderate
+every 1 year,11 - 20 kg,Home Appliances,Device malfunction,Store at home,Yes,Yes,Neutral,No,Water pollution,No,Moderate
+every 2-3 years,11 - 20 kg,Batteries,Device malfunction,Sell to scrap dealers,No,No,Very Satisfied,No,Wildlife damage,No,High
+more than 3 years,Less than 1 kg,Batteries,Physical damage,Sell to scrap dealers,No,No,Dissatisfied,Yes,Soil contamination,No,Low
+every 2-3 years,6 - 10 kg,Batteries,Poor performance,Store at home,No,Yes,Dissatisfied,No,Water pollution,Yes,Moderate
+every 6 months,1 - 5 kg,Home Appliances,Device malfunction,Sell to scrap dealers,Yes,No,Dissatisfied,No,Air pollution,No,Moderate
+every 6 months,Less than 1 kg,Mobile phones,Physical damage,Store at home,Yes,Yes,Dissatisfied,No,Water pollution,No,Moderate
+every 2-3 years,11 - 20 kg,Mobile phones,Upgrading to a newer model,Sell to scrap dealers,Yes,Yes,Satisfied,No,Water pollution,No,Moderate
+every 2-3 years,11 - 20 kg,Laptops/Computers,Physical damage,Store at home,No,Yes,Satisfied,Yes,Air pollution,Yes,Moderate
+every 1 year,Less than 1 kg,Home Appliances,Poor performance,Store at home,No,Yes,Neutral,No,Wildlife damage,Yes,Low
+every 6 months,11 - 20 kg,TVs/Monitors,Physical damage,Return to manufacturers/recyclers,Yes,No,Satisfied,Yes,Soil contamination,No,Moderate
+every 6 months,Less than 1 kg,Home Appliances,Physical damage,Throw in regular trash,No,Yes,Neutral,No,Soil contamination,No,Moderate
+more than 3 years,Less than 1 kg,Home Appliances,Device malfunction,Throw in regular trash,No,No,Very Satisfied,Yes,Air pollution,No,Moderate
+more than 3 years,Less than 1 kg,Mobile phones,Device malfunction,Sell to scrap dealers,Yes,Yes,Very Satisfied,Yes,Soil contamination,Yes,Low
+more than 3 years,6 - 10 kg,Mobile phones,Poor performance,Sell to scrap dealers,Yes,No,Satisfied,Yes,Water pollution,Yes,Moderate
+every 6 months,6 - 10 kg,Laptops/Computers,Physical damage,Sell to scrap dealers,No,No,Very Satisfied,Yes,Air pollution,No,High
+more than 3 years,1 - 5 kg,TVs/Monitors,Device malfunction,Sell to scrap dealers,Yes,No,Neutral,No,Air pollution,Yes,Moderate
+every 2-3 years,11 - 20 kg,Home Appliances,Poor performance,Store at home,No,No,Neutral,Yes,Wildlife damage,No,Moderate
+more than 3 years,6 - 10 kg,Batteries,Device malfunction,Throw in regular trash,Yes,Yes,Neutral,Yes,Water pollution,No,Moderate
+every 1 year,More than 20 kg,Mobile phones,Poor performance,Return to manufacturers/recyclers,Yes,No,Dissatisfied,Yes,Soil contamination,Yes,Moderate
+every 1 year,1 - 5 kg,Laptops/Computers,Upgrading to a newer model,Sell to scrap dealers,Yes,Yes,Very Satisfied,No,Air pollution,Yes,Moderate
+every 1 year,More than 20 kg,TVs/Monitors,Poor performance,Donate to others,Yes,Yes,Very Satisfied,Yes,Soil contamination,No,Moderate
+every 2-3 years,6 - 10 kg,Laptops/Computers,Device malfunction,Store at home,No,Yes,Very Satisfied,Yes,Wildlife damage,No,Moderate
+every 6 months,Less than 1 kg,Home Appliances,Physical damage,Throw in regular trash,Yes,Yes,Very Satisfied,No,Air pollution,Yes,Moderate
+every 6 months,6 - 10 kg,Batteries,Poor performance,Return to manufacturers/recyclers,No,Yes,Dissatisfied,No,Wildlife damage,Yes,Moderate
+every 6 months,Less than 1 kg,Laptops/Computers,Physical damage,Donate to others,Yes,No,Satisfied,Yes,Water pollution,Yes,Moderate
+every 1 year,More than 20 kg,Laptops/Computers,Poor performance,Throw in regular trash,No,Yes,Satisfied,No,Water pollution,Yes,High
+every 6 months,11 - 20 kg,TVs/Monitors,Physical damage,Sell to scrap dealers,No,Yes,Dissatisfied,No,Air pollution,No,High
+every 6 months,Less than 1 kg,Mobile phones,Poor performance,Throw in regular trash,No,Yes,Neutral,Yes,Wildlife damage,Yes,Moderate
+more than 3 years,11 - 20 kg,Laptops/Computers,Device malfunction,Store at home,Yes,No,Neutral,Yes,Soil contamination,Yes,Moderate
+every 2-3 years,Less than 1 kg,Mobile phones,Poor performance,Sell to scrap dealers,No,Yes,Very Satisfied,No,Wildlife damage,No,Moderate
+more than 3 years,More than 20 kg,Batteries,Poor performance,Throw in regular trash,No,No,Very Satisfied,No,Wildlife damage,No,High
+every 1 year,6 - 10 kg,TVs/Monitors,Physical damage,Return to manufacturers/recyclers,Yes,Yes,Satisfied,Yes,Water pollution,No,Moderate
+every 1 year,6 - 10 kg,Mobile phones,Upgrading to a newer model,Sell to scrap dealers,Yes,Yes,Dissatisfied,No,Soil contamination,Yes,Moderate
+every 6 months,6 - 10 kg,Mobile phones,Upgrading to a newer model,Sell to scrap dealers,Yes,Yes,Satisfied,Yes,Air pollution,No,Moderate
+every 1 year,More than 20 kg,Laptops/Computers,Device malfunction,Throw in regular trash,Yes,No,Dissatisfied,Yes,Water pollution,Yes,High
+every 2-3 years,6 - 10 kg,Laptops/Computers,Physical damage,Sell to scrap dealers,No,Yes,Dissatisfied,No,Wildlife damage,No,Moderate
+more than 3 years,11 - 20 kg,Mobile phones,Physical damage,Store at home,No,Yes,Very Satisfied,Yes,Soil contamination,Yes,Moderate
+every 1 year,Less than 1 kg,Mobile phones,Physical damage,Throw in regular trash,Yes,No,Satisfied,No,Soil contamination,Yes,Moderate
+every 1 year,1 - 5 kg,TVs/Monitors,Poor performance,Return to manufacturers/recyclers,Yes,No,Dissatisfied,No,Water pollution,No,Moderate
+every 6 months,Less than 1 kg,Home Appliances,Upgrading to a newer model,Return to manufacturers/recyclers,No,Yes,Neutral,Yes,Wildlife damage,Yes,Low
+every 2-3 years,1 - 5 kg,Mobile phones,Poor performance,Store at home,Yes,No,Neutral,No,Air pollution,Yes,Moderate
+every 2-3 years,Less than 1 kg,Mobile phones,Upgrading to a newer model,Store at home,Yes,Yes,Satisfied,Yes,Soil contamination,Yes,Low
+every 6 months,11 - 20 kg,Mobile phones,Upgrading to a newer model,Store at home,Yes,No,Neutral,Yes,Water pollution,No,Moderate
+every 2-3 years,6 - 10 kg,Mobile phones,Physical damage,Throw in regular trash,Yes,Yes,Neutral,Yes,Soil contamination,Yes,Moderate
+more than 3 years,1 - 5 kg,Batteries,Upgrading to a newer model,Store at home,No,Yes,Very Satisfied,No,Air pollution,Yes,Low
+every 1 year,Less than 1 kg,Laptops/Computers,Physical damage,Return to manufacturers/recyclers,No,No,Neutral,Yes,Water pollution,No,Low
+more than 3 years,11 - 20 kg,Laptops/Computers,Physical damage,Sell to scrap dealers,Yes,No,Very Satisfied,Yes,Air pollution,No,Moderate
+every 2-3 years,Less than 1 kg,Mobile phones,Device malfunction,Sell to scrap dealers,Yes,No,Dissatisfied,No,Soil contamination,No,Moderate
+every 2-3 years,Less than 1 kg,Batteries,Device malfunction,Store at home,Yes,Yes,Satisfied,No,Air pollution,No,Low
+more than 3 years,6 - 10 kg,Batteries,Device malfunction,Donate to others,No,No,Very Satisfied,No,Air pollution,Yes,Moderate
+more than 3 years,More than 20 kg,Laptops/Computers,Device malfunction,Store at home,Yes,No,Neutral,No,Soil contamination,Yes,Moderate
+every 2-3 years,6 - 10 kg,TVs/Monitors,Poor performance,Sell to scrap dealers,Yes,Yes,Satisfied,Yes,Air pollution,No,Moderate
+every 2-3 years,More than 20 kg,Batteries,Device malfunction,Sell to scrap dealers,No,Yes,Neutral,No,Water pollution,Yes,Moderate
+more than 3 years,More than 20 kg,Home Appliances,Upgrading to a newer model,Return to manufacturers/recyclers,Yes,No,Satisfied,Yes,Water pollution,No,Moderate
+every 1 year,More than 20 kg,Laptops/Computers,Device malfunction,Return to manufacturers/recyclers,Yes,No,Dissatisfied,Yes,Wildlife damage,No,Moderate
+every 1 year,1 - 5 kg,Home Appliances,Poor performance,Store at home,No,No,Dissatisfied,Yes,Air pollution,Yes,Moderate
+every 6 months,1 - 5 kg,Mobile phones,Upgrading to a newer model,Store at home,No,Yes,Satisfied,No,Wildlife damage,No,Moderate
+every 1 year,6 - 10 kg,Mobile phones,Physical damage,Return to manufacturers/recyclers,Yes,Yes,Satisfied,Yes,Soil contamination,No,Moderate
+more than 3 years,11 - 20 kg,Mobile phones,Poor performance,Sell to scrap dealers,No,No,Very Satisfied,No,Soil contamination,No,Moderate
+more than 3 years,Less than 1 kg,Home Appliances,Physical damage,Donate to others,Yes,No,Satisfied,Yes,Soil contamination,No,Low
+more than 3 years,Less than 1 kg,Batteries,Upgrading to a newer model,Sell to scrap dealers,Yes,No,Neutral,Yes,Water pollution,Yes,Low
+every 6 months,11 - 20 kg,TVs/Monitors,Physical damage,Store at home,No,No,Very Satisfied,No,Water pollution,No,High
+every 6 months,More than 20 kg,Laptops/Computers,Physical damage,Donate to others,Yes,Yes,Dissatisfied,Yes,Wildlife damage,No,Moderate
+more than 3 years,Less than 1 kg,TVs/Monitors,Upgrading to a newer model,Donate to others,No,Yes,Dissatisfied,Yes,Soil contamination,No,Low
+every 2-3 years,More than 20 kg,Laptops/Computers,Device malfunction,Sell to scrap dealers,No,Yes,Satisfied,Yes,Wildlife damage,No,Moderate
+every 1 year,1 - 5 kg,Batteries,Device malfunction,Sell to scrap dealers,No,No,Very Satisfied,No,Soil contamination,Yes,Moderate
+more than 3 years,1 - 5 kg,Batteries,Device malfunction,Return to manufacturers/recyclers,No,No,Dissatisfied,No,Air pollution,Yes,Low
+every 6 months,11 - 20 kg,Laptops/Computers,Poor performance,Return to manufacturers/recyclers,Yes,No,Very Satisfied,No,Soil contamination,No,Moderate
+more than 3 years,6 - 10 kg,Batteries,Poor performance,Throw in regular trash,Yes,No,Satisfied,No,Water pollution,No,Moderate
+every 6 months,More than 20 kg,Mobile phones,Upgrading to a newer model,Store at home,Yes,No,Satisfied,Yes,Wildlife damage,Yes,High
+every 6 months,More than 20 kg,Mobile phones,Poor performance,Store at home,Yes,Yes,Dissatisfied,No,Water pollution,Yes,Moderate
+every 1 year,More than 20 kg,Laptops/Computers,Device malfunction,Donate to others,Yes,No,Neutral,Yes,Soil contamination,Yes,Moderate
+every 2-3 years,11 - 20 kg,TVs/Monitors,Device malfunction,Store at home,No,Yes,Very Satisfied,No,Water pollution,No,Moderate
+every 6 months,11 - 20 kg,Home Appliances,Physical damage,Sell to scrap dealers,No,No,Very Satisfied,Yes,Soil contamination,No,High
+every 2-3 years,More than 20 kg,Mobile phones,Physical damage,Sell to scrap dealers,No,No,Satisfied,Yes,Water pollution,No,High
+every 1 year,1 - 5 kg,Laptops/Computers,Physical damage,Throw in regular trash,No,No,Very Satisfied,Yes,Water pollution,Yes,Moderate
+every 2-3 years,More than 20 kg,Laptops/Computers,Poor performance,Donate to others,No,Yes,Neutral,Yes,Air pollution,Yes,Moderate
+every 1 year,Less than 1 kg,Mobile phones,Poor performance,Return to manufacturers/recyclers,Yes,No,Satisfied,Yes,Wildlife damage,No,Low
+every 1 year,6 - 10 kg,Laptops/Computers,Device malfunction,Donate to others,No,Yes,Satisfied,Yes,Soil contamination,Yes,Moderate
+every 6 months,1 - 5 kg,Batteries,Upgrading to a newer model,Throw in regular trash,No,No,Neutral,Yes,Soil contamination,Yes,Moderate
+every 1 year,1 - 5 kg,Laptops/Computers,Upgrading to a newer model,Return to manufacturers/recyclers,Yes,Yes,Neutral,No,Air pollution,No,Low
+every 2-3 years,6 - 10 kg,Mobile phones,Upgrading to a newer model,Sell to scrap dealers,No,Yes,Very Satisfied,Yes,Wildlife damage,No,Moderate
+every 6 months,More than 20 kg,TVs/Monitors,Device malfunction,Sell to scrap dealers,Yes,No,Very Satisfied,No,Air pollution,No,High
+more than 3 years,11 - 20 kg,Home Appliances,Physical damage,Throw in regular trash,Yes,No,Neutral,Yes,Air pollution,No,Moderate
+more than 3 years,More than 20 kg,Laptops/Computers,Device malfunction,Throw in regular trash,No,No,Very Satisfied,Yes,Soil contamination,Yes,High
+every 6 months,More than 20 kg,Mobile phones,Device malfunction,Return to manufacturers/recyclers,No,Yes,Dissatisfied,Yes,Water pollution,Yes,Moderate
+more than 3 years,Less than 1 kg,Batteries,Physical damage,Throw in regular trash,Yes,Yes,Satisfied,Yes,Water pollution,Yes,Low
+every 2-3 years,Less than 1 kg,TVs/Monitors,Poor performance,Throw in regular trash,Yes,No,Satisfied,No,Soil contamination,Yes,Moderate
+every 2-3 years,6 - 10 kg,Laptops/Computers,Physical damage,Donate to others,No,No,Dissatisfied,No,Air pollution,Yes,Moderate
+every 2-3 years,Less than 1 kg,Laptops/Computers,Device malfunction,Store at home,No,Yes,Satisfied,Yes,Air pollution,No,Low
+every 1 year,Less than 1 kg,Batteries,Poor performance,Donate to others,Yes,No,Dissatisfied,No,Soil contamination,Yes,Low
+every 2-3 years,Less than 1 kg,TVs/Monitors,Physical damage,Donate to others,Yes,No,Neutral,Yes,Air pollution,Yes,Low
+every 6 months,6 - 10 kg,TVs/Monitors,Physical damage,Sell to scrap dealers,Yes,No,Neutral,Yes,Wildlife damage,No,Moderate
+every 6 months,6 - 10 kg,Mobile phones,Physical damage,Sell to scrap dealers,Yes,Yes,Neutral,No,Water pollution,No,Moderate
+more than 3 years,More than 20 kg,Laptops/Computers,Physical damage,Donate to others,Yes,Yes,Very Satisfied,Yes,Wildlife damage,No,Moderate
+more than 3 years,6 - 10 kg,Home Appliances,Device malfunction,Return to manufacturers/recyclers,Yes,Yes,Satisfied,Yes,Water pollution,Yes,Low
+more than 3 years,11 - 20 kg,Laptops/Computers,Upgrading to a newer model,Return to manufacturers/recyclers,Yes,No,Very Satisfied,Yes,Air pollution,No,Moderate
+more than 3 years,6 - 10 kg,Mobile phones,Physical damage,Donate to others,No,No,Neutral,No,Water pollution,Yes,Moderate
+every 2-3 years,11 - 20 kg,Mobile phones,Physical damage,Sell to scrap dealers,No,No,Very Satisfied,Yes,Wildlife damage,Yes,Moderate
+every 6 months,6 - 10 kg,Batteries,Device malfunction,Return to manufacturers/recyclers,No,Yes,Dissatisfied,No,Air pollution,Yes,Moderate
+every 1 year,11 - 20 kg,Home Appliances,Poor performance,Throw in regular trash,Yes,No,Very Satisfied,Yes,Wildlife damage,Yes,Moderate
+more than 3 years,11 - 20 kg,Batteries,Poor performance,Sell to scrap dealers,No,No,Dissatisfied,Yes,Water pollution,No,Moderate
+every 6 months,1 - 5 kg,Mobile phones,Physical damage,Store at home,Yes,No,Neutral,No,Wildlife damage,No,Moderate
+more than 3 years,6 - 10 kg,Batteries,Physical damage,Sell to scrap dealers,Yes,Yes,Dissatisfied,No,Air pollution,No,Moderate
+every 2-3 years,11 - 20 kg,Home Appliances,Upgrading to a newer model,Donate to others,No,Yes,Satisfied,No,Wildlife damage,Yes,Moderate
+every 1 year,More than 20 kg,TVs/Monitors,Poor performance,Donate to others,Yes,No,Satisfied,Yes,Wildlife damage,No,Moderate
+every 6 months,Less than 1 kg,TVs/Monitors,Physical damage,Donate to others,Yes,No,Satisfied,No,Soil contamination,Yes,Moderate
+every 2-3 years,6 - 10 kg,Batteries,Poor performance,Sell to scrap dealers,No,Yes,Neutral,No,Soil contamination,Yes,Moderate
+every 2-3 years,Less than 1 kg,Mobile phones,Device malfunction,Sell to scrap dealers,No,Yes,Neutral,Yes,Soil contamination,Yes,Low
+every 6 months,11 - 20 kg,Mobile phones,Device malfunction,Return to manufacturers/recyclers,No,Yes,Neutral,Yes,Air pollution,No,Moderate
+every 1 year,6 - 10 kg,Home Appliances,Physical damage,Sell to scrap dealers,No,Yes,Neutral,No,Soil contamination,No,Moderate
+every 2-3 years,1 - 5 kg,Batteries,Poor performance,Throw in regular trash,No,No,Neutral,No,Soil contamination,Yes,Moderate
+every 1 year,6 - 10 kg,Mobile phones,Physical damage,Return to manufacturers/recyclers,No,No,Satisfied,No,Water pollution,No,Moderate
+every 6 months,More than 20 kg,TVs/Monitors,Physical damage,Store at home,No,Yes,Dissatisfied,Yes,Water pollution,No,High
+every 6 months,Less than 1 kg,Laptops/Computers,Poor performance,Sell to scrap dealers,No,No,Very Satisfied,Yes,Water pollution,Yes,Moderate
+every 6 months,1 - 5 kg,TVs/Monitors,Physical damage,Store at home,Yes,Yes,Dissatisfied,No,Wildlife damage,Yes,Moderate
+more than 3 years,6 - 10 kg,Home Appliances,Poor performance,Store at home,No,Yes,Very Satisfied,No,Wildlife damage,No,Moderate
+every 1 year,6 - 10 kg,Batteries,Upgrading to a newer model,Throw in regular trash,Yes,No,Satisfied,Yes,Water pollution,Yes,Moderate
+every 2-3 years,Less than 1 kg,Laptops/Computers,Device malfunction,Throw in regular trash,No,No,Very Satisfied,Yes,Water pollution,Yes,Moderate
+every 6 months,Less than 1 kg,Mobile phones,Device malfunction,Throw in regular trash,No,Yes,Satisfied,Yes,Wildlife damage,Yes,Moderate
+more than 3 years,Less than 1 kg,Home Appliances,Device malfunction,Throw in regular trash,Yes,Yes,Dissatisfied,No,Air pollution,Yes,Low
+more than 3 years,1 - 5 kg,Mobile phones,Poor performance,Donate to others,No,Yes,Very Satisfied,Yes,Soil contamination,No,Low
+every 1 year,11 - 20 kg,Batteries,Physical damage,Store at home,No,Yes,Very Satisfied,No,Water pollution,Yes,Moderate
+more than 3 years,6 - 10 kg,Home Appliances,Poor performance,Return to manufacturers/recyclers,No,No,Very Satisfied,Yes,Wildlife damage,No,Moderate
+more than 3 years,6 - 10 kg,Batteries,Device malfunction,Donate to others,No,Yes,Very Satisfied,No,Air pollution,No,Moderate
+more than 3 years,Less than 1 kg,Batteries,Physical damage,Store at home,Yes,No,Dissatisfied,Yes,Water pollution,No,Low
+every 6 months,More than 20 kg,Batteries,Device malfunction,Sell to scrap dealers,No,Yes,Neutral,Yes,Water pollution,Yes,High
+every 2-3 years,Less than 1 kg,Batteries,Device malfunction,Donate to others,No,No,Dissatisfied,No,Air pollution,No,Moderate
+every 1 year,1 - 5 kg,Laptops/Computers,Upgrading to a newer model,Store at home,No,No,Dissatisfied,No,Soil contamination,No,Moderate
+more than 3 years,More than 20 kg,Batteries,Physical damage,Donate to others,No,Yes,Very Satisfied,No,Air pollution,No,Moderate
+every 1 year,1 - 5 kg,TVs/Monitors,Poor performance,Return to manufacturers/recyclers,No,No,Very Satisfied,No,Water pollution,Yes,Moderate
+every 2-3 years,Less than 1 kg,Mobile phones,Poor performance,Return to manufacturers/recyclers,Yes,Yes,Neutral,No,Water pollution,Yes,Low
+every 6 months,11 - 20 kg,TVs/Monitors,Poor performance,Return to manufacturers/recyclers,Yes,No,Satisfied,No,Air pollution,Yes,Moderate
+more than 3 years,Less than 1 kg,Batteries,Device malfunction,Store at home,Yes,Yes,Very Satisfied,No,Air pollution,No,Low
+every 2-3 years,Less than 1 kg,Laptops/Computers,Upgrading to a newer model,Store at home,No,No,Dissatisfied,No,Soil contamination,Yes,Low
+every 6 months,11 - 20 kg,Home Appliances,Physical damage,Store at home,No,No,Dissatisfied,Yes,Air pollution,Yes,Moderate
+every 1 year,Less than 1 kg,Home Appliances,Physical damage,Sell to scrap dealers,Yes,No,Neutral,Yes,Air pollution,No,Moderate
+every 6 months,Less than 1 kg,Mobile phones,Device malfunction,Return to manufacturers/recyclers,No,Yes,Very Satisfied,No,Water pollution,No,Moderate
+every 1 year,More than 20 kg,Mobile phones,Poor performance,Return to manufacturers/recyclers,Yes,Yes,Satisfied,No,Soil contamination,Yes,Moderate
+more than 3 years,11 - 20 kg,Batteries,Physical damage,Sell to scrap dealers,Yes,Yes,Very Satisfied,No,Water pollution,No,Moderate
+every 1 year,Less than 1 kg,Home Appliances,Device malfunction,Store at home,No,No,Dissatisfied,Yes,Soil contamination,No,Moderate
+every 2-3 years,11 - 20 kg,Batteries,Device malfunction,Throw in regular trash,No,No,Satisfied,No,Soil contamination,No,High
+more than 3 years,1 - 5 kg,Batteries,Upgrading to a newer model,Donate to others,No,No,Satisfied,Yes,Soil contamination,Yes,Low
+every 6 months,More than 20 kg,Mobile phones,Upgrading to a newer model,Sell to scrap dealers,No,No,Very Satisfied,Yes,Wildlife damage,Yes,High
+more than 3 years,11 - 20 kg,Mobile phones,Poor performance,Donate to others,No,No,Neutral,No,Air pollution,Yes,Moderate
+every 6 months,11 - 20 kg,Batteries,Poor performance,Donate to others,No,Yes,Very Satisfied,Yes,Soil contamination,Yes,Moderate
+more than 3 years,1 - 5 kg,Mobile phones,Poor performance,Throw in regular trash,Yes,Yes,Dissatisfied,Yes,Wildlife damage,No,Low
+every 2-3 years,More than 20 kg,Home Appliances,Upgrading to a newer model,Store at home,Yes,No,Very Satisfied,No,Water pollution,No,Moderate
+more than 3 years,1 - 5 kg,Mobile phones,Upgrading to a newer model,Store at home,Yes,Yes,Dissatisfied,Yes,Water pollution,No,Low
+more than 3 years,11 - 20 kg,Mobile phones,Device malfunction,Sell to scrap dealers,Yes,No,Satisfied,Yes,Air pollution,No,Moderate
+every 1 year,1 - 5 kg,Laptops/Computers,Upgrading to a newer model,Throw in regular trash,No,No,Satisfied,Yes,Soil contamination,No,Moderate
+every 2-3 years,Less than 1 kg,TVs/Monitors,Poor performance,Throw in regular trash,No,Yes,Dissatisfied,Yes,Air pollution,No,Moderate
+every 1 year,6 - 10 kg,TVs/Monitors,Physical damage,Store at home,No,No,Very Satisfied,No,Soil contamination,Yes,Moderate
+more than 3 years,6 - 10 kg,Home Appliances,Device malfunction,Donate to others,Yes,Yes,Satisfied,No,Soil contamination,No,Low
+every 2-3 years,1 - 5 kg,TVs/Monitors,Physical damage,Sell to scrap dealers,Yes,No,Satisfied,Yes,Water pollution,No,Moderate
+more than 3 years,More than 20 kg,Batteries,Physical damage,Store at home,Yes,Yes,Very Satisfied,Yes,Soil contamination,No,Moderate
+every 2-3 years,6 - 10 kg,Mobile phones,Upgrading to a newer model,Sell to scrap dealers,No,Yes,Very Satisfied,No,Wildlife damage,No,Moderate
+every 2-3 years,More than 20 kg,Home Appliances,Upgrading to a newer model,Return to manufacturers/recyclers,Yes,No,Satisfied,No,Water pollution,No,Moderate
+every 6 months,1 - 5 kg,TVs/Monitors,Poor performance,Throw in regular trash,Yes,No,Satisfied,Yes,Water pollution,No,Moderate
+every 1 year,More than 20 kg,TVs/Monitors,Upgrading to a newer model,Donate to others,Yes,Yes,Very Satisfied,No,Wildlife damage,Yes,Moderate
+more than 3 years,1 - 5 kg,Mobile phones,Device malfunction,Sell to scrap dealers,No,No,Dissatisfied,Yes,Water pollution,No,Moderate
+every 6 months,Less than 1 kg,Mobile phones,Physical damage,Donate to others,No,No,Dissatisfied,Yes,Wildlife damage,No,Moderate
+every 2-3 years,1 - 5 kg,Mobile phones,Device malfunction,Donate to others,Yes,Yes,Very Satisfied,No,Air pollution,Yes,Low
+every 1 year,11 - 20 kg,Home Appliances,Device malfunction,Store at home,No,Yes,Neutral,Yes,Air pollution,No,Moderate
+every 2-3 years,More than 20 kg,Home Appliances,Device malfunction,Donate to others,Yes,No,Dissatisfied,Yes,Wildlife damage,Yes,Moderate
+every 1 year,6 - 10 kg,TVs/Monitors,Poor performance,Throw in regular trash,No,No,Neutral,Yes,Soil contamination,No,High
+every 6 months,More than 20 kg,Mobile phones,Poor performance,Return to manufacturers/recyclers,No,Yes,Dissatisfied,No,Wildlife damage,No,High
+every 2-3 years,11 - 20 kg,Home Appliances,Poor performance,Throw in regular trash,Yes,No,Dissatisfied,No,Soil contamination,No,High
+more than 3 years,Less than 1 kg,Mobile phones,Device malfunction,Store at home,No,Yes,Very Satisfied,No,Air pollution,No,Low
+every 2-3 years,11 - 20 kg,Batteries,Poor performance,Sell to scrap dealers,No,Yes,Neutral,Yes,Air pollution,Yes,Moderate
+more than 3 years,Less than 1 kg,Home Appliances,Poor performance,Return to manufacturers/recyclers,Yes,Yes,Satisfied,No,Wildlife damage,Yes,Low
+every 1 year,1 - 5 kg,Mobile phones,Poor performance,Store at home,Yes,Yes,Satisfied,Yes,Wildlife damage,Yes,Low
+every 6 months,6 - 10 kg,TVs/Monitors,Device malfunction,Store at home,Yes,Yes,Neutral,Yes,Soil contamination,Yes,Moderate
+more than 3 years,11 - 20 kg,Home Appliances,Device malfunction,Return to manufacturers/recyclers,No,Yes,Dissatisfied,Yes,Water pollution,Yes,Low
+more than 3 years,11 - 20 kg,Mobile phones,Device malfunction,Donate to others,Yes,Yes,Very Satisfied,No,Soil contamination,No,Moderate
+more than 3 years,1 - 5 kg,TVs/Monitors,Device malfunction,Return to manufacturers/recyclers,Yes,No,Very Satisfied,No,Air pollution,No,Low
+every 6 months,11 - 20 kg,TVs/Monitors,Physical damage,Return to manufacturers/recyclers,No,Yes,Neutral,No,Soil contamination,Yes,Moderate
+every 6 months,More than 20 kg,Home Appliances,Upgrading to a newer model,Sell to scrap dealers,No,No,Very Satisfied,No,Air pollution,No,High
+every 2-3 years,11 - 20 kg,Home Appliances,Poor performance,Donate to others,Yes,No,Very Satisfied,Yes,Water pollution,No,Moderate
+every 1 year,1 - 5 kg,Laptops/Computers,Upgrading to a newer model,Throw in regular trash,Yes,Yes,Very Satisfied,No,Water pollution,Yes,Moderate
+every 6 months,11 - 20 kg,Mobile phones,Poor performance,Throw in regular trash,No,No,Very Satisfied,Yes,Soil contamination,Yes,High
+more than 3 years,More than 20 kg,Mobile phones,Device malfunction,Throw in regular trash,Yes,Yes,Dissatisfied,Yes,Soil contamination,No,Moderate
+every 1 year,6 - 10 kg,TVs/Monitors,Device malfunction,Throw in regular trash,Yes,No,Dissatisfied,No,Wildlife damage,Yes,Moderate
+more than 3 years,More than 20 kg,Home Appliances,Physical damage,Sell to scrap dealers,No,Yes,Satisfied,Yes,Soil contamination,No,Moderate
+more than 3 years,Less than 1 kg,Home Appliances,Device malfunction,Store at home,No,No,Dissatisfied,Yes,Wildlife damage,No,Low
+more than 3 years,11 - 20 kg,TVs/Monitors,Upgrading to a newer model,Store at home,No,No,Neutral,Yes,Wildlife damage,Yes,Moderate
+more than 3 years,1 - 5 kg,Mobile phones,Physical damage,Throw in regular trash,Yes,Yes,Very Satisfied,Yes,Air pollution,Yes,Low
+every 1 year,11 - 20 kg,Mobile phones,Upgrading to a newer model,Throw in regular trash,Yes,No,Neutral,Yes,Air pollution,Yes,Moderate
+more than 3 years,More than 20 kg,TVs/Monitors,Physical damage,Donate to others,No,Yes,Very Satisfied,Yes,Soil contamination,No,Moderate
+more than 3 years,Less than 1 kg,Laptops/Computers,Physical damage,Donate to others,Yes,Yes,Very Satisfied,Yes,Water pollution,No,Low
+every 2-3 years,Less than 1 kg,TVs/Monitors,Device malfunction,Donate to others,Yes,Yes,Very Satisfied,Yes,Water pollution,Yes,Low
+every 2-3 years,1 - 5 kg,TVs/Monitors,Device malfunction,Throw in regular trash,No,Yes,Neutral,Yes,Wildlife damage,No,Moderate
+every 6 months,11 - 20 kg,Batteries,Upgrading to a newer model,Sell to scrap dealers,No,No,Dissatisfied,No,Wildlife damage,No,High
+more than 3 years,11 - 20 kg,Laptops/Computers,Physical damage,Throw in regular trash,No,No,Satisfied,Yes,Water pollution,No,Moderate
+more than 3 years,6 - 10 kg,Mobile phones,Device malfunction,Donate to others,No,Yes,Neutral,Yes,Water pollution,Yes,Low
+every 6 months,6 - 10 kg,Home Appliances,Device malfunction,Store at home,Yes,Yes,Very Satisfied,Yes,Water pollution,No,Moderate
+more than 3 years,More than 20 kg,Batteries,Device malfunction,Store at home,Yes,No,Very Satisfied,Yes,Wildlife damage,No,Moderate
+more than 3 years,6 - 10 kg,Batteries,Physical damage,Sell to scrap dealers,No,Yes,Dissatisfied,No,Water pollution,No,Moderate
+more than 3 years,6 - 10 kg,Home Appliances,Poor performance,Donate to others,No,Yes,Very Satisfied,Yes,Wildlife damage,Yes,Low
+every 1 year,Less than 1 kg,Home Appliances,Upgrading to a newer model,Sell to scrap dealers,Yes,No,Satisfied,No,Air pollution,Yes,Moderate
+every 6 months,1 - 5 kg,Home Appliances,Device malfunction,Throw in regular trash,No,Yes,Satisfied,Yes,Soil contamination,No,Moderate
+every 6 months,6 - 10 kg,TVs/Monitors,Physical damage,Store at home,Yes,No,Very Satisfied,Yes,Soil contamination,No,Moderate
+more than 3 years,More than 20 kg,TVs/Monitors,Upgrading to a newer model,Return to manufacturers/recyclers,Yes,Yes,Neutral,No,Wildlife damage,Yes,Moderate
+more than 3 years,1 - 5 kg,Mobile phones,Device malfunction,Sell to scrap dealers,No,No,Satisfied,No,Water pollution,Yes,Moderate
+more than 3 years,6 - 10 kg,Batteries,Physical damage,Return to manufacturers/recyclers,Yes,Yes,Satisfied,No,Soil contamination,No,Low
+more than 3 years,1 - 5 kg,Mobile phones,Device malfunction,Sell to scrap dealers,No,Yes,Satisfied,No,Air pollution,No,Moderate
+every 2-3 years,More than 20 kg,Mobile phones,Poor performance,Return to manufacturers/recyclers,No,No,Satisfied,No,Wildlife damage,Yes,Moderate
+every 2-3 years,Less than 1 kg,Home Appliances,Device malfunction,Store at home,No,Yes,Satisfied,No,Water pollution,No,Low
+every 6 months,Less than 1 kg,Mobile phones,Upgrading to a newer model,Sell to scrap dealers,Yes,Yes,Neutral,No,Air pollution,Yes,Moderate
+every 2-3 years,11 - 20 kg,Mobile phones,Physical damage,Donate to others,No,Yes,Very Satisfied,Yes,Wildlife damage,Yes,Moderate
+more than 3 years,1 - 5 kg,Laptops/Computers,Upgrading to a newer model,Donate to others,No,Yes,Dissatisfied,No,Wildlife damage,No,Low
+every 2-3 years,6 - 10 kg,Laptops/Computers,Device malfunction,Store at home,Yes,Yes,Neutral,No,Wildlife damage,Yes,Moderate
+more than 3 years,1 - 5 kg,Home Appliances,Device malfunction,Store at home,Yes,No,Very Satisfied,No,Soil contamination,Yes,Low
+every 6 months,1 - 5 kg,Mobile phones,Physical damage,Return to manufacturers/recyclers,No,Yes,Very Satisfied,No,Wildlife damage,Yes,Moderate
+every 1 year,6 - 10 kg,Batteries,Poor performance,Donate to others,Yes,No,Very Satisfied,Yes,Water pollution,No,Moderate
+every 1 year,Less than 1 kg,Home Appliances,Upgrading to a newer model,Sell to scrap dealers,No,No,Dissatisfied,No,Water pollution,No,Moderate
+more than 3 years,1 - 5 kg,Laptops/Computers,Upgrading to a newer model,Donate to others,No,No,Satisfied,No,Soil contamination,No,Moderate
+every 1 year,11 - 20 kg,Mobile phones,Device malfunction,Return to manufacturers/recyclers,No,Yes,Dissatisfied,Yes,Wildlife damage,No,Moderate
+every 1 year,Less than 1 kg,Home Appliances,Poor performance,Throw in regular trash,Yes,Yes,Satisfied,Yes,Air pollution,No,Moderate
+every 1 year,More than 20 kg,Laptops/Computers,Upgrading to a newer model,Sell to scrap dealers,Yes,Yes,Neutral,Yes,Soil contamination,No,Moderate
+every 6 months,11 - 20 kg,Mobile phones,Poor performance,Donate to others,No,No,Very Satisfied,Yes,Water pollution,No,High
+more than 3 years,More than 20 kg,Batteries,Upgrading to a newer model,Return to manufacturers/recyclers,Yes,Yes,Dissatisfied,Yes,Water pollution,No,Moderate
+every 6 months,1 - 5 kg,TVs/Monitors,Poor performance,Donate to others,No,Yes,Neutral,No,Soil contamination,No,Moderate
+more than 3 years,Less than 1 kg,Home Appliances,Device malfunction,Store at home,Yes,Yes,Satisfied,Yes,Air pollution,Yes,Low
+every 6 months,1 - 5 kg,Mobile phones,Physical damage,Store at home,Yes,No,Dissatisfied,No,Wildlife damage,No,Moderate
+every 6 months,1 - 5 kg,Home Appliances,Device malfunction,Throw in regular trash,Yes,No,Dissatisfied,Yes,Water pollution,Yes,Moderate
+every 6 months,11 - 20 kg,Mobile phones,Device malfunction,Throw in regular trash,No,Yes,Neutral,Yes,Water pollution,Yes,High
+every 1 year,1 - 5 kg,Mobile phones,Upgrading to a newer model,Donate to others,Yes,Yes,Dissatisfied,No,Wildlife damage,Yes,Moderate
+every 2-3 years,11 - 20 kg,TVs/Monitors,Physical damage,Return to manufacturers/recyclers,No,Yes,Neutral,No,Wildlife damage,No,Moderate
+every 1 year,1 - 5 kg,TVs/Monitors,Poor performance,Return to manufacturers/recyclers,Yes,Yes,Satisfied,No,Water pollution,Yes,Low
+every 6 months,Less than 1 kg,TVs/Monitors,Poor performance,Return to manufacturers/recyclers,No,No,Satisfied,Yes,Soil contamination,Yes,Moderate
+every 2-3 years,Less than 1 kg,Home Appliances,Device malfunction,Donate to others,No,Yes,Satisfied,No,Soil contamination,Yes,Low
+every 6 months,Less than 1 kg,TVs/Monitors,Poor performance,Return to manufacturers/recyclers,Yes,No,Neutral,Yes,Water pollution,Yes,Low
+every 2-3 years,More than 20 kg,TVs/Monitors,Device malfunction,Donate to others,Yes,No,Dissatisfied,No,Soil contamination,Yes,Moderate
+every 1 year,11 - 20 kg,TVs/Monitors,Device malfunction,Sell to scrap dealers,No,Yes,Very Satisfied,No,Water pollution,No,High
+more than 3 years,11 - 20 kg,Batteries,Poor performance,Donate to others,Yes,No,Dissatisfied,No,Soil contamination,Yes,Moderate
+every 1 year,6 - 10 kg,Batteries,Physical damage,Return to manufacturers/recyclers,No,No,Dissatisfied,Yes,Wildlife damage,No,Moderate
+more than 3 years,Less than 1 kg,TVs/Monitors,Poor performance,Throw in regular trash,Yes,Yes,Dissatisfied,Yes,Soil contamination,No,Low
+every 1 year,6 - 10 kg,Batteries,Physical damage,Sell to scrap dealers,No,Yes,Neutral,Yes,Water pollution,Yes,Moderate
+every 6 months,Less than 1 kg,TVs/Monitors,Upgrading to a newer model,Store at home,Yes,Yes,Very Satisfied,Yes,Water pollution,Yes,Low
+more than 3 years,6 - 10 kg,TVs/Monitors,Device malfunction,Throw in regular trash,No,No,Very Satisfied,Yes,Wildlife damage,Yes,Moderate
+more than 3 years,6 - 10 kg,Batteries,Device malfunction,Sell to scrap dealers,Yes,No,Satisfied,No,Air pollution,Yes,Moderate
+every 2-3 years,6 - 10 kg,Laptops/Computers,Device malfunction,Donate to others,Yes,No,Satisfied,Yes,Wildlife damage,Yes,Moderate
+every 1 year,11 - 20 kg,Home Appliances,Poor performance,Return to manufacturers/recyclers,Yes,Yes,Neutral,No,Air pollution,Yes,Moderate
+every 2-3 years,Less than 1 kg,Batteries,Upgrading to a newer model,Throw in regular trash,Yes,No,Satisfied,Yes,Wildlife damage,No,Moderate
+every 6 months,Less than 1 kg,TVs/Monitors,Physical damage,Store at home,Yes,No,Satisfied,No,Soil contamination,No,Moderate
+every 2-3 years,11 - 20 kg,Mobile phones,Upgrading to a newer model,Store at home,No,Yes,Dissatisfied,No,Water pollution,No,Moderate
+every 1 year,11 - 20 kg,TVs/Monitors,Device malfunction,Return to manufacturers/recyclers,Yes,Yes,Dissatisfied,Yes,Wildlife damage,Yes,Moderate
+every 1 year,1 - 5 kg,Mobile phones,Device malfunction,Store at home,No,No,Very Satisfied,Yes,Soil contamination,Yes,Moderate
+every 2-3 years,More than 20 kg,Laptops/Computers,Upgrading to a newer model,Sell to scrap dealers,No,No,Very Satisfied,No,Soil contamination,Yes,High
+more than 3 years,6 - 10 kg,Mobile phones,Physical damage,Throw in regular trash,Yes,No,Very Satisfied,Yes,Wildlife damage,Yes,Moderate
+every 1 year,Less than 1 kg,Batteries,Upgrading to a newer model,Sell to scrap dealers,Yes,Yes,Neutral,Yes,Wildlife damage,Yes,Low
+more than 3 years,1 - 5 kg,Home Appliances,Poor performance,Store at home,No,Yes,Dissatisfied,No,Soil contamination,No,Low
+every 2-3 years,More than 20 kg,Home Appliances,Poor performance,Store at home,Yes,Yes,Dissatisfied,No,Wildlife damage,Yes,Moderate
+every 6 months,11 - 20 kg,TVs/Monitors,Upgrading to a newer model,Store at home,No,Yes,Neutral,No,Water pollution,No,High
+every 1 year,More than 20 kg,Laptops/Computers,Poor performance,Throw in regular trash,Yes,No,Satisfied,Yes,Soil contamination,No,High
+every 2-3 years,More than 20 kg,Home Appliances,Poor performance,Store at home,Yes,No,Dissatisfied,Yes,Water pollution,Yes,Moderate
+every 2-3 years,1 - 5 kg,Mobile phones,Physical damage,Donate to others,Yes,No,Very Satisfied,No,Wildlife damage,No,Moderate
+every 2-3 years,11 - 20 kg,Batteries,Device malfunction,Donate to others,No,No,Satisfied,No,Wildlife damage,Yes,Moderate
+more than 3 years,11 - 20 kg,Home Appliances,Poor performance,Store at home,No,Yes,Very Satisfied,Yes,Wildlife damage,No,Moderate
+every 6 months,6 - 10 kg,TVs/Monitors,Upgrading to a newer model,Return to manufacturers/recyclers,Yes,No,Very Satisfied,No,Water pollution,Yes,Moderate
+every 1 year,More than 20 kg,Mobile phones,Device malfunction,Throw in regular trash,No,Yes,Satisfied,No,Air pollution,No,High
+more than 3 years,1 - 5 kg,TVs/Monitors,Device malfunction,Return to manufacturers/recyclers,Yes,Yes,Neutral,No,Soil contamination,Yes,Low
+more than 3 years,11 - 20 kg,Batteries,Device malfunction,Throw in regular trash,Yes,No,Neutral,Yes,Wildlife damage,Yes,Moderate
+every 6 months,11 - 20 kg,Home Appliances,Poor performance,Donate to others,Yes,No,Very Satisfied,Yes,Wildlife damage,No,Moderate
+every 2-3 years,More than 20 kg,Laptops/Computers,Upgrading to a newer model,Throw in regular trash,No,Yes,Satisfied,Yes,Soil contamination,No,High
+every 6 months,6 - 10 kg,TVs/Monitors,Device malfunction,Return to manufacturers/recyclers,No,Yes,Neutral,No,Wildlife damage,Yes,Moderate
+more than 3 years,Less than 1 kg,Mobile phones,Physical damage,Throw in regular trash,Yes,Yes,Neutral,Yes,Water pollution,No,Low
+more than 3 years,6 - 10 kg,Batteries,Upgrading to a newer model,Sell to scrap dealers,No,No,Satisfied,No,Water pollution,Yes,Moderate
+more than 3 years,11 - 20 kg,Laptops/Computers,Physical damage,Return to manufacturers/recyclers,Yes,Yes,Very Satisfied,Yes,Soil contamination,No,Low
+more than 3 years,11 - 20 kg,Batteries,Physical damage,Donate to others,No,No,Very Satisfied,No,Water pollution,Yes,Moderate
+every 2-3 years,Less than 1 kg,Laptops/Computers,Upgrading to a newer model,Throw in regular trash,Yes,No,Neutral,No,Soil contamination,No,Moderate
+more than 3 years,Less than 1 kg,Batteries,Poor performance,Store at home,Yes,No,Dissatisfied,No,Wildlife damage,No,Low
+more than 3 years,Less than 1 kg,TVs/Monitors,Upgrading to a newer model,Donate to others,Yes,No,Very Satisfied,No,Air pollution,No,Low
+every 6 months,6 - 10 kg,Home Appliances,Physical damage,Throw in regular trash,Yes,Yes,Very Satisfied,No,Soil contamination,No,Moderate
+every 2-3 years,6 - 10 kg,Laptops/Computers,Upgrading to a newer model,Throw in regular trash,No,Yes,Very Satisfied,Yes,Water pollution,No,Moderate
+more than 3 years,More than 20 kg,TVs/Monitors,Physical damage,Sell to scrap dealers,Yes,No,Very Satisfied,No,Wildlife damage,No,Moderate
+more than 3 years,More than 20 kg,Batteries,Upgrading to a newer model,Return to manufacturers/recyclers,Yes,No,Dissatisfied,No,Wildlife damage,Yes,Moderate
+every 1 year,1 - 5 kg,Batteries,Poor performance,Sell to scrap dealers,No,No,Satisfied,No,Soil contamination,Yes,Moderate
+every 1 year,1 - 5 kg,TVs/Monitors,Physical damage,Sell to scrap dealers,Yes,Yes,Very Satisfied,Yes,Water pollution,No,Moderate
+every 2-3 years,Less than 1 kg,Batteries,Poor performance,Donate to others,No,No,Very Satisfied,No,Water pollution,No,Moderate
+every 6 months,1 - 5 kg,Batteries,Device malfunction,Sell to scrap dealers,Yes,Yes,Neutral,No,Air pollution,Yes,Moderate
+every 2-3 years,More than 20 kg,Laptops/Computers,Device malfunction,Return to manufacturers/recyclers,Yes,No,Satisfied,Yes,Air pollution,Yes,Moderate
+every 6 months,Less than 1 kg,Batteries,Upgrading to a newer model,Store at home,Yes,No,Satisfied,Yes,Air pollution,No,Moderate
+more than 3 years,1 - 5 kg,Home Appliances,Poor performance,Throw in regular trash,No,Yes,Dissatisfied,No,Air pollution,Yes,Moderate
+every 6 months,Less than 1 kg,Laptops/Computers,Physical damage,Store at home,Yes,Yes,Satisfied,Yes,Air pollution,No,Low
+every 2-3 years,1 - 5 kg,TVs/Monitors,Physical damage,Donate to others,No,Yes,Dissatisfied,No,Wildlife damage,Yes,Moderate
+every 2-3 years,Less than 1 kg,Laptops/Computers,Poor performance,Donate to others,Yes,No,Neutral,No,Wildlife damage,No,Low
+every 1 year,More than 20 kg,Batteries,Physical damage,Throw in regular trash,No,Yes,Very Satisfied,Yes,Water pollution,No,High
+every 6 months,Less than 1 kg,Mobile phones,Physical damage,Sell to scrap dealers,Yes,Yes,Satisfied,No,Wildlife damage,Yes,Moderate
+every 1 year,11 - 20 kg,Home Appliances,Upgrading to a newer model,Donate to others,Yes,Yes,Very Satisfied,Yes,Water pollution,Yes,Moderate
+every 1 year,1 - 5 kg,Home Appliances,Upgrading to a newer model,Store at home,No,No,Very Satisfied,Yes,Wildlife damage,No,Moderate
+every 6 months,11 - 20 kg,TVs/Monitors,Poor performance,Sell to scrap dealers,Yes,No,Neutral,No,Water pollution,No,High
+every 2-3 years,Less than 1 kg,Mobile phones,Poor performance,Store at home,No,No,Satisfied,Yes,Air pollution,Yes,Low
+every 2-3 years,More than 20 kg,Home Appliances,Physical damage,Return to manufacturers/recyclers,Yes,No,Satisfied,No,Wildlife damage,Yes,Moderate
+every 6 months,6 - 10 kg,Home Appliances,Physical damage,Donate to others,Yes,No,Satisfied,Yes,Wildlife damage,Yes,Moderate
+every 2-3 years,More than 20 kg,Laptops/Computers,Poor performance,Store at home,Yes,Yes,Neutral,Yes,Soil contamination,Yes,Moderate
+more than 3 years,11 - 20 kg,Mobile phones,Device malfunction,Return to manufacturers/recyclers,No,No,Very Satisfied,No,Water pollution,Yes,Moderate
+every 6 months,11 - 20 kg,Batteries,Physical damage,Throw in regular trash,Yes,Yes,Dissatisfied,No,Wildlife damage,No,High
+every 6 months,Less than 1 kg,Laptops/Computers,Poor performance,Donate to others,No,Yes,Dissatisfied,No,Water pollution,Yes,Moderate
+every 1 year,6 - 10 kg,Laptops/Computers,Poor performance,Sell to scrap dealers,No,Yes,Dissatisfied,No,Soil contamination,No,Moderate
+more than 3 years,6 - 10 kg,Home Appliances,Physical damage,Sell to scrap dealers,No,Yes,Satisfied,No,Soil contamination,No,Moderate
+every 6 months,11 - 20 kg,Laptops/Computers,Device malfunction,Throw in regular trash,No,Yes,Very Satisfied,Yes,Wildlife damage,No,High
+every 6 months,Less than 1 kg,Laptops/Computers,Upgrading to a newer model,Donate to others,No,No,Dissatisfied,No,Soil contamination,No,Moderate
+every 2-3 years,More than 20 kg,Mobile phones,Upgrading to a newer model,Return to manufacturers/recyclers,Yes,Yes,Satisfied,No,Soil contamination,No,Moderate
+more than 3 years,6 - 10 kg,Mobile phones,Upgrading to a newer model,Throw in regular trash,Yes,Yes,Very Satisfied,Yes,Wildlife damage,No,Moderate
+more than 3 years,11 - 20 kg,Laptops/Computers,Device malfunction,Sell to scrap dealers,No,No,Dissatisfied,No,Water pollution,Yes,Moderate
+every 2-3 years,More than 20 kg,TVs/Monitors,Upgrading to a newer model,Return to manufacturers/recyclers,Yes,Yes,Very Satisfied,Yes,Soil contamination,Yes,Moderate
+more than 3 years,More than 20 kg,Mobile phones,Upgrading to a newer model,Donate to others,Yes,Yes,Dissatisfied,No,Wildlife damage,Yes,Moderate
+more than 3 years,6 - 10 kg,Home Appliances,Device malfunction,Store at home,Yes,No,Satisfied,Yes,Air pollution,No,Moderate
+every 2-3 years,Less than 1 kg,Mobile phones,Device malfunction,Store at home,Yes,No,Satisfied,Yes,Water pollution,No,Low
+every 2-3 years,1 - 5 kg,Batteries,Poor performance,Throw in regular trash,Yes,Yes,Very Satisfied,Yes,Air pollution,No,Moderate
+more than 3 years,Less than 1 kg,Home Appliances,Poor performance,Donate to others,No,No,Very Satisfied,Yes,Soil contamination,No,Low
+every 6 months,Less than 1 kg,Home Appliances,Poor performance,Throw in regular trash,Yes,Yes,Neutral,Yes,Air pollution,Yes,Moderate
+every 1 year,1 - 5 kg,Home Appliances,Upgrading to a newer model,Donate to others,Yes,Yes,Neutral,No,Air pollution,No,Moderate
+every 1 year,6 - 10 kg,Mobile phones,Poor performance,Donate to others,Yes,Yes,Dissatisfied,Yes,Air pollution,Yes,Moderate
+every 2-3 years,Less than 1 kg,Batteries,Device malfunction,Store at home,No,Yes,Dissatisfied,No,Water pollution,Yes,Low
+every 2-3 years,6 - 10 kg,Home Appliances,Physical damage,Throw in regular trash,Yes,Yes,Satisfied,Yes,Soil contamination,Yes,Moderate
+every 1 year,Less than 1 kg,Laptops/Computers,Physical damage,Store at home,Yes,No,Dissatisfied,Yes,Water pollution,Yes,Low
+more than 3 years,More than 20 kg,TVs/Monitors,Upgrading to a newer model,Return to manufacturers/recyclers,Yes,Yes,Very Satisfied,Yes,Soil contamination,No,Moderate
+more than 3 years,11 - 20 kg,Laptops/Computers,Upgrading to a newer model,Throw in regular trash,Yes,No,Very Satisfied,Yes,Air pollution,Yes,Moderate
+every 6 months,1 - 5 kg,Home Appliances,Poor performance,Return to manufacturers/recyclers,No,No,Dissatisfied,Yes,Wildlife damage,Yes,Moderate
+more than 3 years,11 - 20 kg,Laptops/Computers,Physical damage,Return to manufacturers/recyclers,No,Yes,Dissatisfied,Yes,Water pollution,Yes,Low
+every 1 year,More than 20 kg,Batteries,Upgrading to a newer model,Sell to scrap dealers,No,No,Neutral,No,Water pollution,No,High
+more than 3 years,More than 20 kg,Home Appliances,Physical damage,Throw in regular trash,Yes,No,Neutral,Yes,Wildlife damage,No,Moderate
+every 1 year,11 - 20 kg,Home Appliances,Device malfunction,Return to manufacturers/recyclers,No,Yes,Neutral,No,Water pollution,No,Moderate
+more than 3 years,Less than 1 kg,Laptops/Computers,Upgrading to a newer model,Throw in regular trash,No,No,Dissatisfied,Yes,Wildlife damage,Yes,Moderate
+every 2-3 years,6 - 10 kg,Laptops/Computers,Upgrading to a newer model,Throw in regular trash,No,Yes,Neutral,No,Water pollution,No,Moderate
+every 1 year,11 - 20 kg,Home Appliances,Device malfunction,Donate to others,Yes,No,Neutral,Yes,Wildlife damage,No,Moderate
+every 6 months,11 - 20 kg,Home Appliances,Device malfunction,Donate to others,Yes,No,Neutral,No,Soil contamination,No,High
+more than 3 years,6 - 10 kg,Mobile phones,Physical damage,Donate to others,Yes,Yes,Neutral,Yes,Air pollution,Yes,Low
+every 6 months,11 - 20 kg,Mobile phones,Poor performance,Throw in regular trash,Yes,Yes,Satisfied,No,Air pollution,Yes,High
+every 2-3 years,6 - 10 kg,Batteries,Physical damage,Return to manufacturers/recyclers,Yes,No,Satisfied,No,Air pollution,No,Moderate
+every 6 months,6 - 10 kg,Mobile phones,Device malfunction,Donate to others,Yes,Yes,Very Satisfied,No,Water pollution,No,Moderate
+every 6 months,1 - 5 kg,Laptops/Computers,Poor performance,Throw in regular trash,No,Yes,Dissatisfied,No,Air pollution,No,Moderate
+every 1 year,11 - 20 kg,Home Appliances,Device malfunction,Return to manufacturers/recyclers,No,Yes,Neutral,No,Wildlife damage,No,Moderate
+every 1 year,6 - 10 kg,Mobile phones,Device malfunction,Donate to others,No,Yes,Satisfied,No,Wildlife damage,No,Moderate
+every 1 year,Less than 1 kg,Mobile phones,Poor performance,Store at home,Yes,No,Very Satisfied,Yes,Wildlife damage,No,Low
+every 6 months,1 - 5 kg,Mobile phones,Physical damage,Sell to scrap dealers,No,Yes,Dissatisfied,No,Soil contamination,Yes,Moderate
+more than 3 years,1 - 5 kg,Home Appliances,Upgrading to a newer model,Donate to others,No,No,Very Satisfied,Yes,Water pollution,Yes,Low
+every 2-3 years,Less than 1 kg,Laptops/Computers,Physical damage,Store at home,Yes,Yes,Satisfied,No,Soil contamination,No,Low
+every 2-3 years,11 - 20 kg,Mobile phones,Physical damage,Return to manufacturers/recyclers,Yes,Yes,Neutral,Yes,Soil contamination,No,Moderate
+every 2-3 years,11 - 20 kg,TVs/Monitors,Physical damage,Store at home,No,Yes,Very Satisfied,No,Wildlife damage,No,Moderate
+every 2-3 years,11 - 20 kg,Home Appliances,Physical damage,Throw in regular trash,No,Yes,Neutral,Yes,Soil contamination,No,Moderate
+every 1 year,1 - 5 kg,TVs/Monitors,Upgrading to a newer model,Donate to others,No,Yes,Neutral,Yes,Wildlife damage,No,Moderate
+every 2-3 years,11 - 20 kg,Laptops/Computers,Upgrading to a newer model,Store at home,No,Yes,Dissatisfied,Yes,Air pollution,No,Moderate
+every 2-3 years,6 - 10 kg,Home Appliances,Upgrading to a newer model,Store at home,Yes,Yes,Very Satisfied,No,Wildlife damage,No,Moderate
+more than 3 years,6 - 10 kg,TVs/Monitors,Upgrading to a newer model,Sell to scrap dealers,Yes,Yes,Neutral,No,Air pollution,No,Moderate
+every 1 year,More than 20 kg,Laptops/Computers,Poor performance,Return to manufacturers/recyclers,Yes,No,Neutral,Yes,Wildlife damage,No,Moderate
+more than 3 years,6 - 10 kg,Mobile phones,Physical damage,Donate to others,Yes,Yes,Satisfied,No,Wildlife damage,Yes,Low
+more than 3 years,More than 20 kg,Batteries,Upgrading to a newer model,Return to manufacturers/recyclers,No,No,Very Satisfied,No,Water pollution,No,Moderate
+every 6 months,More than 20 kg,Mobile phones,Physical damage,Throw in regular trash,Yes,Yes,Neutral,Yes,Soil contamination,No,High
+more than 3 years,Less than 1 kg,TVs/Monitors,Poor performance,Throw in regular trash,No,No,Neutral,Yes,Water pollution,No,Moderate
+more than 3 years,More than 20 kg,Laptops/Computers,Physical damage,Throw in regular trash,No,No,Very Satisfied,Yes,Water pollution,Yes,High
+every 1 year,More than 20 kg,Home Appliances,Physical damage,Return to manufacturers/recyclers,No,Yes,Dissatisfied,Yes,Water pollution,No,Moderate
+every 1 year,1 - 5 kg,TVs/Monitors,Physical damage,Sell to scrap dealers,No,No,Dissatisfied,Yes,Wildlife damage,Yes,Moderate
+every 1 year,Less than 1 kg,Laptops/Computers,Device malfunction,Store at home,No,No,Satisfied,No,Water pollution,No,Moderate
+every 6 months,11 - 20 kg,Home Appliances,Device malfunction,Return to manufacturers/recyclers,Yes,Yes,Dissatisfied,Yes,Soil contamination,No,Moderate
+every 6 months,Less than 1 kg,Laptops/Computers,Physical damage,Sell to scrap dealers,Yes,Yes,Neutral,No,Wildlife damage,No,Moderate
+every 2-3 years,11 - 20 kg,TVs/Monitors,Poor performance,Return to manufacturers/recyclers,Yes,Yes,Very Satisfied,No,Wildlife damage,No,Moderate
+every 1 year,More than 20 kg,Mobile phones,Physical damage,Donate to others,No,Yes,Dissatisfied,Yes,Air pollution,No,Moderate
+every 6 months,1 - 5 kg,Home Appliances,Device malfunction,Donate to others,No,No,Dissatisfied,Yes,Wildlife damage,No,Moderate
+every 2-3 years,11 - 20 kg,Laptops/Computers,Upgrading to a newer model,Store at home,Yes,Yes,Neutral,No,Water pollution,Yes,Moderate
+every 1 year,1 - 5 kg,Batteries,Physical damage,Donate to others,No,No,Dissatisfied,Yes,Water pollution,No,Moderate
+every 2-3 years,6 - 10 kg,TVs/Monitors,Upgrading to a newer model,Store at home,No,Yes,Very Satisfied,No,Soil contamination,Yes,Moderate
+every 2-3 years,11 - 20 kg,Mobile phones,Device malfunction,Donate to others,No,Yes,Very Satisfied,Yes,Soil contamination,Yes,Moderate
+more than 3 years,Less than 1 kg,TVs/Monitors,Physical damage,Throw in regular trash,Yes,No,Satisfied,No,Water pollution,Yes,Low
+every 6 months,More than 20 kg,Laptops/Computers,Device malfunction,Throw in regular trash,No,Yes,Dissatisfied,No,Soil contamination,No,High
+more than 3 years,1 - 5 kg,Mobile phones,Device malfunction,Store at home,Yes,Yes,Neutral,No,Water pollution,No,Low
+every 1 year,11 - 20 kg,Laptops/Computers,Device malfunction,Donate to others,No,Yes,Very Satisfied,No,Air pollution,No,Moderate
+more than 3 years,More than 20 kg,Laptops/Computers,Poor performance,Sell to scrap dealers,Yes,Yes,Satisfied,No,Soil contamination,Yes,Moderate
+every 1 year,11 - 20 kg,Laptops/Computers,Upgrading to a newer model,Return to manufacturers/recyclers,Yes,Yes,Dissatisfied,No,Wildlife damage,No,Moderate
+every 1 year,1 - 5 kg,Home Appliances,Physical damage,Throw in regular trash,No,Yes,Neutral,Yes,Soil contamination,Yes,Moderate
+every 1 year,Less than 1 kg,TVs/Monitors,Physical damage,Store at home,No,No,Neutral,No,Soil contamination,No,Moderate
+more than 3 years,6 - 10 kg,Batteries,Poor performance,Sell to scrap dealers,Yes,Yes,Satisfied,Yes,Air pollution,No,Moderate
+every 2-3 years,More than 20 kg,Laptops/Computers,Poor performance,Return to manufacturers/recyclers,No,No,Satisfied,No,Water pollution,No,Moderate
+every 1 year,Less than 1 kg,TVs/Monitors,Upgrading to a newer model,Store at home,Yes,No,Dissatisfied,No,Soil contamination,Yes,Low
+every 1 year,6 - 10 kg,Home Appliances,Upgrading to a newer model,Return to manufacturers/recyclers,No,No,Very Satisfied,No,Air pollution,Yes,Moderate
+every 6 months,1 - 5 kg,Mobile phones,Upgrading to a newer model,Throw in regular trash,Yes,No,Neutral,Yes,Air pollution,Yes,Moderate
+every 1 year,More than 20 kg,Mobile phones,Device malfunction,Throw in regular trash,Yes,Yes,Very Satisfied,No,Water pollution,Yes,High
+more than 3 years,6 - 10 kg,Mobile phones,Device malfunction,Sell to scrap dealers,No,Yes,Dissatisfied,Yes,Soil contamination,No,Moderate
+every 1 year,1 - 5 kg,Home Appliances,Physical damage,Store at home,Yes,No,Dissatisfied,No,Soil contamination,No,Moderate
+every 1 year,Less than 1 kg,Batteries,Upgrading to a newer model,Throw in regular trash,Yes,No,Dissatisfied,Yes,Air pollution,Yes,Moderate
+every 2-3 years,11 - 20 kg,Home Appliances,Poor performance,Throw in regular trash,Yes,No,Neutral,Yes,Air pollution,Yes,Moderate
+more than 3 years,1 - 5 kg,Batteries,Upgrading to a newer model,Throw in regular trash,Yes,No,Dissatisfied,No,Soil contamination,No,Moderate
+every 1 year,Less than 1 kg,Batteries,Physical damage,Sell to scrap dealers,Yes,No,Satisfied,Yes,Water pollution,No,Moderate
+every 2-3 years,6 - 10 kg,Laptops/Computers,Poor performance,Store at home,No,No,Neutral,Yes,Air pollution,Yes,Moderate
+every 6 months,11 - 20 kg,Laptops/Computers,Device malfunction,Sell to scrap dealers,No,Yes,Satisfied,No,Air pollution,Yes,High
+every 1 year,1 - 5 kg,Laptops/Computers,Poor performance,Sell to scrap dealers,No,No,Dissatisfied,No,Water pollution,No,Moderate
+more than 3 years,More than 20 kg,Mobile phones,Physical damage,Return to manufacturers/recyclers,No,No,Very Satisfied,No,Air pollution,Yes,Moderate
+more than 3 years,Less than 1 kg,Home Appliances,Poor performance,Donate to others,No,No,Satisfied,Yes,Soil contamination,No,Low
+every 1 year,Less than 1 kg,TVs/Monitors,Upgrading to a newer model,Donate to others,Yes,No,Satisfied,Yes,Soil contamination,No,Low
+more than 3 years,Less than 1 kg,Laptops/Computers,Physical damage,Sell to scrap dealers,Yes,No,Neutral,Yes,Air pollution,Yes,Low
+every 6 months,1 - 5 kg,Home Appliances,Poor performance,Return to manufacturers/recyclers,No,Yes,Satisfied,Yes,Wildlife damage,Yes,Moderate
+every 6 months,More than 20 kg,TVs/Monitors,Upgrading to a newer model,Sell to scrap dealers,No,No,Dissatisfied,Yes,Soil contamination,No,High
+every 2-3 years,6 - 10 kg,TVs/Monitors,Upgrading to a newer model,Sell to scrap dealers,Yes,Yes,Very Satisfied,No,Air pollution,Yes,Moderate
+every 2-3 years,6 - 10 kg,Batteries,Upgrading to a newer model,Sell to scrap dealers,No,Yes,Dissatisfied,Yes,Wildlife damage,Yes,Moderate
+every 2-3 years,6 - 10 kg,Mobile phones,Upgrading to a newer model,Sell to scrap dealers,Yes,Yes,Dissatisfied,Yes,Soil contamination,Yes,Moderate
+every 2-3 years,Less than 1 kg,Home Appliances,Poor performance,Throw in regular trash,No,Yes,Very Satisfied,No,Wildlife damage,No,Moderate
+every 6 months,Less than 1 kg,Laptops/Computers,Device malfunction,Donate to others,Yes,Yes,Dissatisfied,No,Air pollution,Yes,Low
+more than 3 years,11 - 20 kg,Batteries,Poor performance,Sell to scrap dealers,No,No,Satisfied,Yes,Air pollution,No,Moderate
+more than 3 years,6 - 10 kg,Batteries,Device malfunction,Sell to scrap dealers,Yes,Yes,Satisfied,Yes,Wildlife damage,No,Moderate
+more than 3 years,More than 20 kg,TVs/Monitors,Physical damage,Donate to others,Yes,No,Neutral,Yes,Air pollution,No,Moderate
+more than 3 years,Less than 1 kg,Laptops/Computers,Physical damage,Sell to scrap dealers,Yes,Yes,Dissatisfied,Yes,Water pollution,No,Low
+every 2-3 years,6 - 10 kg,Mobile phones,Physical damage,Return to manufacturers/recyclers,Yes,No,Dissatisfied,No,Wildlife damage,No,Moderate
+every 6 months,6 - 10 kg,Mobile phones,Physical damage,Throw in regular trash,No,Yes,Dissatisfied,No,Wildlife damage,No,High
+every 2-3 years,11 - 20 kg,TVs/Monitors,Upgrading to a newer model,Store at home,No,Yes,Satisfied,No,Air pollution,Yes,Moderate
+every 2-3 years,Less than 1 kg,Laptops/Computers,Device malfunction,Throw in regular trash,No,No,Very Satisfied,Yes,Water pollution,Yes,Moderate
+every 6 months,More than 20 kg,Laptops/Computers,Upgrading to a newer model,Store at home,Yes,No,Very Satisfied,No,Air pollution,Yes,High
+every 2-3 years,More than 20 kg,TVs/Monitors,Device malfunction,Throw in regular trash,Yes,Yes,Very Satisfied,No,Soil contamination,Yes,Moderate
+more than 3 years,More than 20 kg,Home Appliances,Device malfunction,Return to manufacturers/recyclers,No,Yes,Satisfied,Yes,Water pollution,Yes,Moderate
+every 2-3 years,6 - 10 kg,Laptops/Computers,Physical damage,Return to manufacturers/recyclers,No,Yes,Dissatisfied,Yes,Wildlife damage,Yes,Low
+every 1 year,More than 20 kg,Laptops/Computers,Poor performance,Throw in regular trash,Yes,No,Dissatisfied,No,Water pollution,Yes,High
+every 1 year,6 - 10 kg,Batteries,Upgrading to a newer model,Throw in regular trash,No,No,Very Satisfied,Yes,Wildlife damage,No,High
+every 2-3 years,1 - 5 kg,Batteries,Device malfunction,Donate to others,Yes,Yes,Neutral,No,Air pollution,Yes,Low
+every 6 months,More than 20 kg,Laptops/Computers,Poor performance,Donate to others,No,No,Neutral,No,Water pollution,Yes,High
+every 1 year,11 - 20 kg,Home Appliances,Device malfunction,Return to manufacturers/recyclers,Yes,Yes,Satisfied,No,Air pollution,Yes,Moderate
+every 2-3 years,1 - 5 kg,Mobile phones,Upgrading to a newer model,Throw in regular trash,Yes,No,Very Satisfied,Yes,Wildlife damage,Yes,Moderate
+every 6 months,6 - 10 kg,Laptops/Computers,Device malfunction,Throw in regular trash,Yes,Yes,Neutral,No,Soil contamination,No,Moderate
+every 1 year,Less than 1 kg,Home Appliances,Device malfunction,Throw in regular trash,No,Yes,Very Satisfied,Yes,Wildlife damage,Yes,Moderate
+every 1 year,1 - 5 kg,TVs/Monitors,Physical damage,Donate to others,Yes,Yes,Very Satisfied,No,Soil contamination,Yes,Moderate
+every 2-3 years,11 - 20 kg,Home Appliances,Device malfunction,Sell to scrap dealers,Yes,Yes,Neutral,Yes,Air pollution,No,Moderate
+more than 3 years,1 - 5 kg,Batteries,Physical damage,Throw in regular trash,Yes,Yes,Satisfied,No,Air pollution,No,Moderate
+every 1 year,11 - 20 kg,Mobile phones,Physical damage,Sell to scrap dealers,No,No,Satisfied,No,Wildlife damage,Yes,High
+every 1 year,More than 20 kg,TVs/Monitors,Poor performance,Store at home,Yes,Yes,Dissatisfied,Yes,Wildlife damage,No,Moderate
+every 1 year,Less than 1 kg,TVs/Monitors,Physical damage,Store at home,Yes,No,Neutral,No,Water pollution,Yes,Low
+every 2-3 years,6 - 10 kg,Laptops/Computers,Poor performance,Donate to others,Yes,Yes,Neutral,No,Wildlife damage,No,Moderate
+every 2-3 years,6 - 10 kg,TVs/Monitors,Poor performance,Throw in regular trash,No,Yes,Neutral,No,Water pollution,Yes,Moderate
+every 1 year,1 - 5 kg,Laptops/Computers,Poor performance,Store at home,No,Yes,Satisfied,No,Soil contamination,No,Moderate
+every 6 months,Less than 1 kg,Laptops/Computers,Physical damage,Throw in regular trash,No,No,Dissatisfied,No,Wildlife damage,No,Moderate
+every 6 months,More than 20 kg,Batteries,Physical damage,Sell to scrap dealers,No,Yes,Very Satisfied,No,Soil contamination,Yes,High
+every 1 year,Less than 1 kg,Batteries,Upgrading to a newer model,Store at home,No,No,Dissatisfied,No,Air pollution,No,Moderate
+every 6 months,11 - 20 kg,Mobile phones,Physical damage,Sell to scrap dealers,No,Yes,Very Satisfied,Yes,Soil contamination,No,High
+every 1 year,Less than 1 kg,Laptops/Computers,Physical damage,Donate to others,No,No,Dissatisfied,No,Water pollution,No,Moderate
+more than 3 years,Less than 1 kg,Laptops/Computers,Poor performance,Store at home,Yes,No,Neutral,No,Air pollution,No,Low
+every 6 months,1 - 5 kg,Batteries,Physical damage,Return to manufacturers/recyclers,Yes,No,Neutral,No,Wildlife damage,Yes,Moderate
+every 1 year,1 - 5 kg,Laptops/Computers,Device malfunction,Throw in regular trash,No,Yes,Neutral,No,Wildlife damage,Yes,Moderate
+every 2-3 years,11 - 20 kg,Mobile phones,Device malfunction,Donate to others,No,Yes,Very Satisfied,No,Wildlife damage,Yes,Moderate
+more than 3 years,11 - 20 kg,Mobile phones,Physical damage,Donate to others,No,Yes,Neutral,No,Soil contamination,Yes,Moderate
+every 1 year,11 - 20 kg,Mobile phones,Device malfunction,Donate to others,No,Yes,Very Satisfied,No,Soil contamination,Yes,Moderate
+more than 3 years,1 - 5 kg,Batteries,Device malfunction,Return to manufacturers/recyclers,No,No,Dissatisfied,No,Water pollution,No,Low
+every 1 year,1 - 5 kg,TVs/Monitors,Upgrading to a newer model,Return to manufacturers/recyclers,No,No,Satisfied,No,Wildlife damage,Yes,Moderate
+every 2-3 years,6 - 10 kg,Laptops/Computers,Device malfunction,Store at home,No,No,Dissatisfied,No,Air pollution,No,Moderate
